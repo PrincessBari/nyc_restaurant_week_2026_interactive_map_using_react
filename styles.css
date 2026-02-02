@@ -1,0 +1,167 @@
+/* Reset and base styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+}
+
+#root {
+    width: 100%;
+    height: 100%;
+}
+
+/* Map container */
+.map-container {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+/* Filter panel - Desktop positioning (top-left) */
+.filter-panel {
+    position: fixed;
+    top: 10px;
+    left: 60px;
+    background: white;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    z-index: 9999;
+    max-width: 350px;
+    font-family: Arial, sans-serif;
+}
+
+.filter-panel h3 {
+    margin: 0 0 10px 0;
+    font-size: 20px;
+    color: #333;
+}
+
+.filter-panel h3 span {
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.filter-panel label {
+    display: block;
+    margin: 10px 0 5px 0;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.filter-panel select,
+.filter-panel input[type="text"] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.filter-panel button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #2196F3;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+    transition: background-color 0.2s;
+}
+
+.filter-panel button:hover {
+    background-color: #1976D2;
+}
+
+.filter-panel button.reset-button {
+    background-color: #64B5F6;
+}
+
+.filter-panel button.reset-button:hover {
+    background-color: #42A5F5;
+}
+
+.info-text {
+    font-size: 12px;
+    color: #666;
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 1px solid #eee;
+}
+
+.info-text strong {
+    color: #2196F3;
+}
+
+/* Mobile styles - Move panel to bottom */
+@media (max-width: 768px) {
+    .filter-panel {
+        top: auto;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        max-width: none;
+        border-radius: 16px 16px 0 0;
+        box-shadow: 0 -2px 12px rgba(0, 0, 0, 0.3);
+        max-height: 60vh;
+        overflow-y: auto;
+        padding: 12px 15px 20px 15px;
+    }
+
+    .filter-panel h3 {
+        font-size: 18px;
+        margin-bottom: 8px;
+    }
+
+    .filter-panel h3 span {
+        font-size: 15px;
+    }
+
+    .filter-panel label {
+        margin: 8px 0 4px 0;
+        font-size: 13px;
+    }
+
+    .filter-panel select,
+    .filter-panel input[type="text"] {
+        padding: 10px 8px;
+        font-size: 16px; /* Prevents zoom on iOS */
+    }
+
+    .filter-panel button {
+        padding: 12px;
+        margin-top: 8px;
+        font-size: 15px;
+    }
+
+    .info-text {
+        font-size: 11px;
+        margin-top: 8px;
+        padding-top: 8px;
+    }
+}
+
+/* Very small screens */
+@media (max-width: 480px) {
+    .filter-panel {
+        max-height: 65vh;
+    }
+}
+
+/* Leaflet tooltip customization */
+.leaflet-tooltip {
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+}
