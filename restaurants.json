@@ -1,0 +1,5226 @@
+[
+  {
+    "Restaurant": "Gaia",
+    "Cuisine": "Mediterranean",
+    "Neighborhood": "Herald Square, New York, NY",
+    "Address": "42 W 35th St, New York, NY 10001, USA",
+    "Latitude": 40.7497612,
+    "Longitude": -73.9860805
+  },
+  {
+    "Restaurant": "Tarallucci e Vino - Upper West Side",
+    "Cuisine": "Italian",
+    "Neighborhood": "Upper West Side, New York, NY",
+    "Address": "475 Columbus Ave, New York, NY 10024, USA",
+    "Latitude": 40.784365,
+    "Longitude": -73.97349
+  },
+  {
+    "Restaurant": "Prohibition",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Upper West Side, New York, NY",
+    "Address": "503 Columbus Ave, New York, NY 10024, USA",
+    "Latitude": 40.7852222,
+    "Longitude": -73.9727293
+  },
+  {
+    "Restaurant": "Jacob's Pickles",
+    "Cuisine": "Soul Food / Southern",
+    "Neighborhood": "Upper West Side, New York, NY",
+    "Address": "680 Columbus Ave, New York, NY 10025, USA",
+    "Latitude": 40.7911551,
+    "Longitude": -73.9690457
+  },
+  {
+    "Restaurant": "Hasaki",
+    "Cuisine": "Japanese / Sushi",
+    "Neighborhood": "East Village, New York, NY",
+    "Address": "210 E 9th St, New York, NY 10003, USA",
+    "Latitude": 40.729689,
+    "Longitude": -73.9888293
+  },
+  {
+    "Restaurant": "Empell\u00f3n",
+    "Cuisine": "Mexican",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "510 Madison Ave, New York, NY 10022, USA",
+    "Latitude": 40.7597318,
+    "Longitude": -73.9746715
+  },
+  {
+    "Restaurant": "Michael's",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "24 W 55th St, New York, NY 10019, USA",
+    "Latitude": 40.7620797,
+    "Longitude": -73.9764438
+  },
+  {
+    "Restaurant": "Qanoon",
+    "Cuisine": "Middle Eastern",
+    "Neighborhood": "Chelsea, New York, NY",
+    "Address": "180 9th Ave, New York, NY 10011, USA",
+    "Latitude": 40.7452323,
+    "Longitude": -74.0019905
+  },
+  {
+    "Restaurant": "Hav & Mar",
+    "Cuisine": "Seafood",
+    "Neighborhood": "Chelsea, New York, NY",
+    "Address": "245 11th Ave, New York, NY 10001, USA",
+    "Latitude": 40.7509642,
+    "Longitude": -74.005733
+  },
+  {
+    "Restaurant": "The Sea Fire Grill",
+    "Cuisine": "Seafood",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "158 E 48th St Between 3rd and, The Buchanan, Lexington Ave, New York, NY 10017, USA",
+    "Latitude": 40.7544393,
+    "Longitude": -73.9723135
+  },
+  {
+    "Restaurant": "Catria Cucina and Bar",
+    "Cuisine": "Italian",
+    "Neighborhood": "Hudson Yards, New York, NY",
+    "Address": "461 W 34th St. Frnt 1, New York, NY 10001, USA",
+    "Latitude": 40.754585,
+    "Longitude": -73.998721
+  },
+  {
+    "Restaurant": "Tinto Tapas Restaurant & Wine Bar",
+    "Cuisine": "Spanish",
+    "Neighborhood": "Washington Heights, New York, NY",
+    "Address": "209 Pinehurst Ave, New York, NY 10033, USA",
+    "Latitude": 40.8550871,
+    "Longitude": -73.9377887
+  },
+  {
+    "Restaurant": "Off the Hook Raw Bar & Grill",
+    "Cuisine": "Seafood",
+    "Neighborhood": "Astoria, New York, NY",
+    "Address": "28-08 34th St, Astoria, NY 11103, USA",
+    "Latitude": 40.7671634,
+    "Longitude": -73.9180743
+  },
+  {
+    "Restaurant": "Little Chef Little Cafe",
+    "Cuisine": "Filipino",
+    "Neighborhood": "Long Island City, New York, NY",
+    "Address": "5-43 48th Ave, Long Island City, NY 11101, USA",
+    "Latitude": 40.7444091,
+    "Longitude": -73.9542191
+  },
+  {
+    "Restaurant": "T Bar",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Upper East Side, New York, NY",
+    "Address": "116 E 60th St, New York, NY 10022, USA",
+    "Latitude": 40.763048,
+    "Longitude": -73.9687092
+  },
+  {
+    "Restaurant": "Lure Fishbar",
+    "Cuisine": "Seafood",
+    "Neighborhood": "Soho, New York, NY",
+    "Address": "142 Mercer St, New York, NY 10012, USA",
+    "Latitude": 40.724703,
+    "Longitude": -73.9983278
+  },
+  {
+    "Restaurant": "Frankie & Johnnie\u2019s Steakhouse",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Times Square/Theatre District, New York, NY",
+    "Address": "320 W 46th St, New York, NY 10036, USA",
+    "Latitude": 40.7599917,
+    "Longitude": -73.9889712
+  },
+  {
+    "Restaurant": "Tanoreen",
+    "Cuisine": "Middle Eastern",
+    "Neighborhood": "Bay Ridge, New York, NY",
+    "Address": "7523 3rd Ave, Brooklyn, NY 11209, USA",
+    "Latitude": 40.6307916,
+    "Longitude": -74.0277865
+  },
+  {
+    "Restaurant": "Aromi",
+    "Cuisine": "Italian",
+    "Neighborhood": "Carroll Gardens, New York, NY",
+    "Address": "552 Court St, Brooklyn, NY 11231, USA",
+    "Latitude": 40.6750189,
+    "Longitude": -73.9996717
+  },
+  {
+    "Restaurant": "La Marchande",
+    "Cuisine": "French",
+    "Neighborhood": "Lower Manhattan, New York, NY",
+    "Address": "88 Wall St, New York, NY 10005, USA",
+    "Latitude": 40.7056275,
+    "Longitude": -74.0076321
+  },
+  {
+    "Restaurant": "Beauty & Essex",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Lower East Side, New York, NY",
+    "Address": "146 Essex St, New York, NY 10002, USA",
+    "Latitude": 40.7204209,
+    "Longitude": -73.9868826
+  },
+  {
+    "Restaurant": "Haven Rooftop",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Times Square/Theatre District, New York, NY",
+    "Address": "132 W 47th St, New York, NY 10036, USA",
+    "Latitude": 40.7584057,
+    "Longitude": -73.9833062
+  },
+  {
+    "Restaurant": "Zero Otto Nove - Flatiron",
+    "Cuisine": "Italian",
+    "Neighborhood": "Flatiron District, New York, NY",
+    "Address": "15 W 21st St, New York, NY 10010, USA",
+    "Latitude": 40.7408896,
+    "Longitude": -73.9916077
+  },
+  {
+    "Restaurant": "Morton's The Steakhouse\u2014World Trade Center",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Lower Manhattan, New York, NY",
+    "Address": "136 Washington St, New York, NY 10006, USA",
+    "Latitude": 40.7097005,
+    "Longitude": -74.0139538
+  },
+  {
+    "Restaurant": "Bourbon Steak New York",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "160 Central Park S Suite 1101-62, New York, NY 10019, USA",
+    "Latitude": 40.7660208,
+    "Longitude": -73.9786492
+  },
+  {
+    "Restaurant": "Tarallucci e Vino - Union Square",
+    "Cuisine": "Italian",
+    "Neighborhood": "Union Square, New York, NY",
+    "Address": "15 E 18th St, New York, NY 10003, USA",
+    "Latitude": 40.7382123,
+    "Longitude": -73.9906233
+  },
+  {
+    "Restaurant": "El Coco - Chelsea",
+    "Cuisine": "Mexican",
+    "Neighborhood": "Chelsea, New York, NY",
+    "Address": "202 8th Ave, New York, NY 10011, USA",
+    "Latitude": 40.7435248,
+    "Longitude": -73.9994683
+  },
+  {
+    "Restaurant": "Nick's Lobster House",
+    "Cuisine": "Seafood",
+    "Neighborhood": "Mill Basin, New York, NY",
+    "Address": "2777 Flatbush Ave, Brooklyn, NY 11234, USA",
+    "Latitude": 40.6036058,
+    "Longitude": -73.9151773
+  },
+  {
+    "Restaurant": "Metropolis",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Lower Manhattan, New York, NY",
+    "Address": "Located in, Performing Arts Center, 251 Fulton St, New York, NY 10007, USA",
+    "Latitude": 40.7126623,
+    "Longitude": -74.0121097
+  },
+  {
+    "Restaurant": "The Ivory Peacock",
+    "Cuisine": "Gastropub",
+    "Neighborhood": "Flatiron District, New York, NY",
+    "Address": "38 W 26th St, New York, NY 10010, USA",
+    "Latitude": 40.7442721,
+    "Longitude": -73.9907621
+  },
+  {
+    "Restaurant": "The Fulton",
+    "Cuisine": "Seafood",
+    "Neighborhood": "The Seaport, New York, NY",
+    "Address": "Northeast corner of Pier 17, 89 South St, New York, NY 10038, USA",
+    "Latitude": 40.705573,
+    "Longitude": -74.0014567
+  },
+  {
+    "Restaurant": "Malii Gramercy",
+    "Cuisine": "Thai",
+    "Neighborhood": "Gramercy, New York, NY",
+    "Address": "391 2nd Ave, New York, NY 10010, USA",
+    "Latitude": 40.7377049,
+    "Longitude": -73.9813506
+  },
+  {
+    "Restaurant": "Bixi",
+    "Cuisine": "Asian Fusion",
+    "Neighborhood": "Harlem, New York, NY",
+    "Address": "2164 Frederick Douglass Blvd, New York, NY 10026, USA",
+    "Latitude": 40.8048198,
+    "Longitude": -73.9547643
+  },
+  {
+    "Restaurant": "Morandi",
+    "Cuisine": "Italian",
+    "Neighborhood": "West Village, New York, NY",
+    "Address": "211 Waverly Pl, New York, NY 10014, USA",
+    "Latitude": 40.7353245,
+    "Longitude": -74.0014335
+  },
+  {
+    "Restaurant": "Carlotto",
+    "Cuisine": "Italian",
+    "Neighborhood": "Gramercy, New York, NY",
+    "Address": "100 E 19th St, New York, NY 10003, USA",
+    "Latitude": 40.7374367,
+    "Longitude": -73.9876492
+  },
+  {
+    "Restaurant": "Il Nonno",
+    "Cuisine": "Italian",
+    "Neighborhood": "Astoria, New York, NY",
+    "Address": "25-17 Astoria Blvd, Astoria, NY 11102, USA",
+    "Latitude": 40.7713439,
+    "Longitude": -73.922144
+  },
+  {
+    "Restaurant": "Atrio Wine Bar & Restaurant",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Battery Park City, New York, NY",
+    "Address": "102 N End Ave, New York, NY 10282, USA",
+    "Latitude": 40.7150869,
+    "Longitude": -74.0150476
+  },
+  {
+    "Restaurant": "A Pasta Bar",
+    "Cuisine": "Italian",
+    "Neighborhood": "Soho, New York, NY",
+    "Address": "330 W Broadway, New York, NY 10013, USA",
+    "Latitude": 40.7222947,
+    "Longitude": -74.0040089
+  },
+  {
+    "Restaurant": "Maison Pickle",
+    "Cuisine": "American (Traditional)",
+    "Neighborhood": "Upper West Side, New York, NY",
+    "Address": "2315 Broadway, New York, NY 10024, USA",
+    "Latitude": 40.7870473,
+    "Longitude": -73.9781361
+  },
+  {
+    "Restaurant": "Aqua Boil",
+    "Cuisine": "Seafood",
+    "Neighborhood": "Hells Kitchen, New York, NY",
+    "Address": "750 9th Ave, New York, NY 10019, USA",
+    "Latitude": 40.7637215,
+    "Longitude": -73.988403
+  },
+  {
+    "Restaurant": "Oceana",
+    "Cuisine": "Seafood",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "120 W 49th St, New York, NY 10020, USA",
+    "Latitude": 40.7597641,
+    "Longitude": -73.9823074
+  },
+  {
+    "Restaurant": "Point Seven",
+    "Cuisine": "Seafood",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "200 Park Ave, New York, NY 10166, USA",
+    "Latitude": 40.7536857,
+    "Longitude": -73.9768917
+  },
+  {
+    "Restaurant": "The Terrace and Outdoor Gardens",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Times Square/Theatre District, New York, NY",
+    "Address": "701 7th Ave 9th floor, New York, NY 10036, USA",
+    "Latitude": 40.759149,
+    "Longitude": -73.984164
+  },
+  {
+    "Restaurant": "Godunk Thai Street Food",
+    "Cuisine": "Thai",
+    "Neighborhood": "Noho, New York, NY",
+    "Address": "332 Bowery, New York, NY 10012, USA",
+    "Latitude": 40.7259855,
+    "Longitude": -73.9923319
+  },
+  {
+    "Restaurant": "Nizza",
+    "Cuisine": "Italian",
+    "Neighborhood": "Hells Kitchen, New York, NY",
+    "Address": "630 9th Ave, New York, NY 10036, USA",
+    "Latitude": 40.759987,
+    "Longitude": -73.9912338
+  },
+  {
+    "Restaurant": "The Wolfe",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Upper West Side, New York, NY",
+    "Address": "425 Amsterdam Ave, New York, NY 10024, USA",
+    "Latitude": 40.7839494,
+    "Longitude": -73.9773996
+  },
+  {
+    "Restaurant": "Verde on Smith",
+    "Cuisine": "Italian",
+    "Neighborhood": "Cobble Hill, New York, NY",
+    "Address": "216 Smith St, Brooklyn, NY 11201, USA",
+    "Latitude": 40.6844516,
+    "Longitude": -73.9922475
+  },
+  {
+    "Restaurant": "Pera Mediterranean Brasserie",
+    "Cuisine": "Mediterranean",
+    "Neighborhood": "Murray Hill, New York, NY",
+    "Address": "303 Madison Ave, New York, NY 10017, USA",
+    "Latitude": 40.7523684,
+    "Longitude": -73.9792894
+  },
+  {
+    "Restaurant": "Estiatorio Milos",
+    "Cuisine": "Seafood",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "125 W 55th St, New York, NY 10019, USA",
+    "Latitude": 40.7637445,
+    "Longitude": -73.9788358
+  },
+  {
+    "Restaurant": "Champers Social Club",
+    "Cuisine": "French",
+    "Neighborhood": "Soho, New York, NY",
+    "Address": "39 1/2 Crosby St, New York, NY 10012, USA",
+    "Latitude": 40.7215357,
+    "Longitude": -73.9987798
+  },
+  {
+    "Restaurant": "Greywind",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Hudson Yards, New York, NY",
+    "Address": "451 10th Ave, New York, NY 10018, USA",
+    "Latitude": 40.7554921,
+    "Longitude": -73.9987254
+  },
+  {
+    "Restaurant": "Barano",
+    "Cuisine": "Italian",
+    "Neighborhood": "Williamsburg, New York, NY",
+    "Address": "26 Broadway, Brooklyn, NY 11249, USA",
+    "Latitude": 40.7103974,
+    "Longitude": -73.9679658
+  },
+  {
+    "Restaurant": "Tuome",
+    "Cuisine": "American (New)",
+    "Neighborhood": "East Village, New York, NY",
+    "Address": "536 E 5th St, New York, NY 10009, USA",
+    "Latitude": 40.7240318,
+    "Longitude": -73.9829146
+  },
+  {
+    "Restaurant": "Frenchette",
+    "Cuisine": "French",
+    "Neighborhood": "Tribeca, New York, NY",
+    "Address": "241 W Broadway, New York, NY 10013, USA",
+    "Latitude": 40.7196146,
+    "Longitude": -74.0057057
+  },
+  {
+    "Restaurant": "Mr Chow New York - Tribeca",
+    "Cuisine": "Chinese",
+    "Neighborhood": "Tribeca, New York, NY",
+    "Address": "121 Hudson St, New York, NY 10013, USA",
+    "Latitude": 40.7201607,
+    "Longitude": -74.0089531
+  },
+  {
+    "Restaurant": "Strip House Midtown",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "15 W 44th St, New York, NY 10036, USA",
+    "Latitude": 40.755344,
+    "Longitude": -73.9806613
+  },
+  {
+    "Restaurant": "Taste of India II",
+    "Cuisine": "Indian",
+    "Neighborhood": "New Dorp, New York, NY",
+    "Address": "287 New Dorp Ln, Staten Island, NY 10306, USA",
+    "Latitude": 40.572236,
+    "Longitude": -74.1126406
+  },
+  {
+    "Restaurant": "Pinky Swear",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Lower East Side, New York, NY",
+    "Address": "171A Chrystie St, New York, NY 10002, USA",
+    "Latitude": 40.7208685,
+    "Longitude": -73.9927592
+  },
+  {
+    "Restaurant": "Sotto la Luna",
+    "Cuisine": "Italian",
+    "Neighborhood": "Astoria, New York, NY",
+    "Address": "34-39 31st St, Astoria, NY 11106, USA",
+    "Latitude": 40.7583874,
+    "Longitude": -73.9279839
+  },
+  {
+    "Restaurant": "Ma\u2022d\u00e9",
+    "Cuisine": "Asian Fusion",
+    "Neighborhood": "Nolita, New York, NY",
+    "Address": "22 Spring St Apartment 12, New York, NY 10012, USA",
+    "Latitude": 40.7213883,
+    "Longitude": -73.9951754
+  },
+  {
+    "Restaurant": "Lele's Roman",
+    "Cuisine": "Italian",
+    "Neighborhood": "Boerum Hill, New York, NY",
+    "Address": "252 Schermerhorn St, Brooklyn, NY 11217, USA",
+    "Latitude": 40.6878762,
+    "Longitude": -73.9838418
+  },
+  {
+    "Restaurant": "Caf\u00e9 Boulud",
+    "Cuisine": "French",
+    "Neighborhood": "Upper East Side, New York, NY",
+    "Address": "100 E 63rd St, New York, NY 10065, USA",
+    "Latitude": 40.7650598,
+    "Longitude": -73.9675502
+  },
+  {
+    "Restaurant": "Calvert's",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "600 W 57th St, New York, NY 10019, USA",
+    "Latitude": 40.7703207,
+    "Longitude": -73.9918385
+  },
+  {
+    "Restaurant": "Salt + Charcoal",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Williamsburg, New York, NY",
+    "Address": "171 Grand St, Brooklyn, NY 11249, USA",
+    "Latitude": 40.7147592,
+    "Longitude": -73.9612338
+  },
+  {
+    "Restaurant": "Gaonnuri",
+    "Cuisine": "Korean",
+    "Neighborhood": "Koreatown, New York, NY",
+    "Address": "32ND STREET ENTRANCE 1250, Broadway 39th Foor, New York, NY 10001, USA",
+    "Latitude": 40.7476873,
+    "Longitude": -73.9878772
+  },
+  {
+    "Restaurant": "Meet the Meat",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Astoria, New York, NY",
+    "Address": "23-92 21st St, Astoria, NY 11105, USA",
+    "Latitude": 40.7770326,
+    "Longitude": -73.9214057
+  },
+  {
+    "Restaurant": "Felice 83",
+    "Cuisine": "Italian",
+    "Neighborhood": "Upper East Side, New York, NY",
+    "Address": "1593 1st Ave, New York, NY 10028, USA",
+    "Latitude": 40.7749003,
+    "Longitude": -73.9510928
+  },
+  {
+    "Restaurant": "Sushi Ann",
+    "Cuisine": "Japanese / Sushi",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "38 E 51st St, New York, NY 10022, USA",
+    "Latitude": 40.758056,
+    "Longitude": -73.9742182
+  },
+  {
+    "Restaurant": "Petite Boucherie",
+    "Cuisine": "French",
+    "Neighborhood": "West Village, New York, NY",
+    "Address": "First Floor, 14 Christopher St, New York, NY 10014, USA",
+    "Latitude": 40.7338319,
+    "Longitude": -74.0004287
+  },
+  {
+    "Restaurant": "Chez Josephine",
+    "Cuisine": "French",
+    "Neighborhood": "Hells Kitchen, New York, NY",
+    "Address": "414 W 42nd St, New York, NY 10036, USA",
+    "Latitude": 40.7585368,
+    "Longitude": -73.9935431
+  },
+  {
+    "Restaurant": "Dos Caminos Meatpacking District",
+    "Cuisine": "Mexican",
+    "Neighborhood": "Meatpacking District, New York, NY",
+    "Address": "675 Hudson St, New York, NY 10014, USA",
+    "Latitude": 40.7403525,
+    "Longitude": -74.0054512
+  },
+  {
+    "Restaurant": "Empire Steak House - Midtown West",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "233 W 49th St, New York, NY 10019, USA",
+    "Latitude": 40.7614377,
+    "Longitude": -73.9855281
+  },
+  {
+    "Restaurant": "Del Friscos Double Eagle Steakhouse New York",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "1221 Ave of the Americas, New York, NY 10020, USA",
+    "Latitude": 40.7594274,
+    "Longitude": -73.9822296
+  },
+  {
+    "Restaurant": "Jue Lan Club",
+    "Cuisine": "Chinese",
+    "Neighborhood": "Flatiron District, New York, NY",
+    "Address": "49 W 20th St, New York, NY 10011, USA",
+    "Latitude": 40.7409461,
+    "Longitude": -73.9935311
+  },
+  {
+    "Restaurant": "Limani",
+    "Cuisine": "Mediterranean",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "45 Rockefeller Plaza, New York, NY 10111, USA",
+    "Latitude": 40.7587402,
+    "Longitude": -73.9786735
+  },
+  {
+    "Restaurant": "Antica Pesa",
+    "Cuisine": "Italian",
+    "Neighborhood": "Williamsburg, New York, NY",
+    "Address": "115 Berry St, Brooklyn, NY 11249, USA",
+    "Latitude": 40.7188157,
+    "Longitude": -73.958625
+  },
+  {
+    "Restaurant": "Crown Shy",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Lower Manhattan, New York, NY",
+    "Address": "70 Pine St Ground Floor, New York, NY 10005, USA",
+    "Latitude": 40.7065047,
+    "Longitude": -74.0077715
+  },
+  {
+    "Restaurant": "The Parlour Room",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Herald Square, New York, NY",
+    "Address": "70 W 36th St. Front 1b, New York, NY 10018, USA",
+    "Latitude": 40.7506112,
+    "Longitude": -73.9862911
+  },
+  {
+    "Restaurant": "La Contenta Oeste",
+    "Cuisine": "Mexican",
+    "Neighborhood": "West Village, New York, NY",
+    "Address": "78 W 11th St, New York, NY 10011, USA",
+    "Latitude": 40.7351431,
+    "Longitude": -73.9980504
+  },
+  {
+    "Restaurant": "Passerine",
+    "Cuisine": "Indian",
+    "Neighborhood": "Flatiron District, New York, NY",
+    "Address": "36 E 20th St, New York, NY 10003, USA",
+    "Latitude": 40.7385115,
+    "Longitude": -73.988664
+  },
+  {
+    "Restaurant": "Barawine",
+    "Cuisine": "French",
+    "Neighborhood": "Harlem, New York, NY",
+    "Address": "200 Malcolm X Blvd, New York, NY 10027, USA",
+    "Latitude": 40.8045614,
+    "Longitude": -73.947394
+  },
+  {
+    "Restaurant": "Miriam Brooklyn",
+    "Cuisine": "Mediterranean",
+    "Neighborhood": "Park Slope, New York, NY",
+    "Address": "79 5th Ave, Brooklyn, NY 11217, USA",
+    "Latitude": 40.680148,
+    "Longitude": -73.9777049
+  },
+  {
+    "Restaurant": "David Burke Tavern",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Upper East Side, New York, NY",
+    "Address": "135 E 62nd St, New York, NY 10065, USA",
+    "Latitude": 40.7644377,
+    "Longitude": -73.967102
+  },
+  {
+    "Restaurant": "Manuela",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Soho, New York, NY",
+    "Address": "130 Prince St, New York, NY 10012, USA",
+    "Latitude": 40.7253651,
+    "Longitude": -74.0005917
+  },
+  {
+    "Restaurant": "Tavern on the Green",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Central Park, New York, NY",
+    "Address": "Central Park, W 67th St, New York, NY 10023, USA",
+    "Latitude": 40.7736665,
+    "Longitude": -73.9778422
+  },
+  {
+    "Restaurant": "Sweet Catch",
+    "Cuisine": "Seafood",
+    "Neighborhood": "Prospect Lefferts Gardens, New York, NY",
+    "Address": "1222 Nostrand Ave, Brooklyn, NY 11225, USA",
+    "Latitude": 40.6573796,
+    "Longitude": -73.9505199
+  },
+  {
+    "Restaurant": "Sereneco",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Greenpoint, New York, NY",
+    "Address": "113 Franklin St, Brooklyn, NY 11222, USA",
+    "Latitude": 40.7301625,
+    "Longitude": -73.9579347
+  },
+  {
+    "Restaurant": "Glass House Tavern",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Times Square/Theatre District, New York, NY",
+    "Address": "252 W 47th St #14, New York, NY 10036, USA",
+    "Latitude": 40.7598542,
+    "Longitude": -73.9867025
+  },
+  {
+    "Restaurant": "Tasca NYC",
+    "Cuisine": "Latin American",
+    "Neighborhood": "Upper West Side, New York, NY",
+    "Address": "505 Columbus Ave, New York, NY 10024, USA",
+    "Latitude": 40.7853151,
+    "Longitude": -73.9727841
+  },
+  {
+    "Restaurant": "Becco",
+    "Cuisine": "Italian",
+    "Neighborhood": "Times Square/Theatre District, New York, NY",
+    "Address": "355 W 46th St, New York, NY 10036, USA",
+    "Latitude": 40.7607729,
+    "Longitude": -73.9898448
+  },
+  {
+    "Restaurant": "Rowland's Bar & Grill",
+    "Cuisine": "Gastropub",
+    "Neighborhood": "Herald Square, New York, NY",
+    "Address": "151 W 34th St., New York, NY 10001, USA",
+    "Latitude": 40.7508631,
+    "Longitude": -73.9890634
+  },
+  {
+    "Restaurant": "Kashkaval Garden",
+    "Cuisine": "Mediterranean",
+    "Neighborhood": "Hells Kitchen, New York, NY",
+    "Address": "852 9th Ave, New York, NY 10019, USA",
+    "Latitude": 40.7667608,
+    "Longitude": -73.9861939
+  },
+  {
+    "Restaurant": "Socarrat Paella Bar - Nolita",
+    "Cuisine": "Spanish",
+    "Neighborhood": "Nolita, New York, NY",
+    "Address": "284 Mulberry St, New York, NY 10012, USA",
+    "Latitude": 40.7244575,
+    "Longitude": -73.9949785
+  },
+  {
+    "Restaurant": "Tucci",
+    "Cuisine": "Italian",
+    "Neighborhood": "Noho, New York, NY",
+    "Address": "643 Broadway, New York, NY 10012, USA",
+    "Latitude": 40.7267232,
+    "Longitude": -73.9958859
+  },
+  {
+    "Restaurant": "Le Rock",
+    "Cuisine": "French",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "45 Rockefeller Plaza, New York, NY 10111, USA",
+    "Latitude": 40.7587402,
+    "Longitude": -73.9786735
+  },
+  {
+    "Restaurant": "Leuca",
+    "Cuisine": "Italian",
+    "Neighborhood": "Williamsburg, New York, NY",
+    "Address": "111 N 12th St, Brooklyn, NY 11249, USA",
+    "Latitude": 40.7228468,
+    "Longitude": -73.9578689
+  },
+  {
+    "Restaurant": "City Winery",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Chelsea, New York, NY",
+    "Address": "25 11th Ave, New York, NY 10011, USA",
+    "Latitude": 40.742941,
+    "Longitude": -74.0091145
+  },
+  {
+    "Restaurant": "Hudson VU",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Hells Kitchen, New York, NY",
+    "Address": "653 11th Ave, New York, NY 10036, USA",
+    "Latitude": 40.7645715,
+    "Longitude": -73.995984
+  },
+  {
+    "Restaurant": "L'Express",
+    "Cuisine": "French",
+    "Neighborhood": "Gramercy, New York, NY",
+    "Address": "249 Park Ave S, New York, NY 10003, USA",
+    "Latitude": 40.7381523,
+    "Longitude": -73.987657
+  },
+  {
+    "Restaurant": "Fil\u00e9 Gumbo Bar",
+    "Cuisine": "Cajun/Creole",
+    "Neighborhood": "Tribeca, New York, NY",
+    "Address": "275 Church St, New York, NY 10013, USA",
+    "Latitude": 40.7184878,
+    "Longitude": -74.0048194
+  },
+  {
+    "Restaurant": "5 Napkin Burger - Hell's Kitchen",
+    "Cuisine": "American (Traditional)",
+    "Neighborhood": "Hells Kitchen, New York, NY",
+    "Address": "630 9th Ave, New York, NY 10036, USA",
+    "Latitude": 40.759987,
+    "Longitude": -73.9912338
+  },
+  {
+    "Restaurant": "Mesiba",
+    "Cuisine": "Mediterranean",
+    "Neighborhood": "Williamsburg, New York, NY",
+    "Address": "353 Bedford Ave, Brooklyn, NY 11211, USA",
+    "Latitude": 40.7116901,
+    "Longitude": -73.9628749
+  },
+  {
+    "Restaurant": "Wagamama - Midtown",
+    "Cuisine": "Asian Fusion",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "100 W 55th St, New York, NY 10019, USA",
+    "Latitude": 40.7631438,
+    "Longitude": -73.9788554
+  },
+  {
+    "Restaurant": "Docks Oyster Bar",
+    "Cuisine": "Seafood",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "633 3rd Ave, New York, NY 10017, USA",
+    "Latitude": 40.7496951,
+    "Longitude": -73.9748286
+  },
+  {
+    "Restaurant": "Socarrat Paella Bar - Chelsea",
+    "Cuisine": "Spanish",
+    "Neighborhood": "Chelsea, New York, NY",
+    "Address": "259 W 19th St, New York, NY 10011, USA",
+    "Latitude": 40.7426877,
+    "Longitude": -73.9995394
+  },
+  {
+    "Restaurant": "Cosme",
+    "Cuisine": "Mexican",
+    "Neighborhood": "Flatiron District, New York, NY",
+    "Address": "35 E 21st St, New York, NY 10010, USA",
+    "Latitude": 40.7395952,
+    "Longitude": -73.9883564
+  },
+  {
+    "Restaurant": "Sinigual",
+    "Cuisine": "Mexican",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "640 3rd Ave, Manhattan, NY 10017, USA",
+    "Latitude": 40.7503189,
+    "Longitude": -73.9750503
+  },
+  {
+    "Restaurant": "Hupo",
+    "Cuisine": "Chinese",
+    "Neighborhood": "Long Island City, New York, NY",
+    "Address": "10-07 50th Ave, Long Island City, NY 11101, USA",
+    "Latitude": 40.7428388,
+    "Longitude": -73.9536004
+  },
+  {
+    "Restaurant": "Club A Steakhouse",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "240 E 58th St, New York, NY 10022, USA",
+    "Latitude": 40.7600574,
+    "Longitude": -73.9655842
+  },
+  {
+    "Restaurant": "Mishik",
+    "Cuisine": "Japanese / Sushi",
+    "Neighborhood": "Hudson Square, New York, NY",
+    "Address": "259A Hudson St, New York, NY 10013, USA",
+    "Latitude": 40.7249077,
+    "Longitude": -74.0079398
+  },
+  {
+    "Restaurant": "Treadwell Park - Upper East Side",
+    "Cuisine": "American (Traditional)",
+    "Neighborhood": "Upper East Side, New York, NY",
+    "Address": "1125 1st Ave, New York, NY 10065, USA",
+    "Latitude": 40.7614741,
+    "Longitude": -73.9611074
+  },
+  {
+    "Restaurant": "Rynn Thai Restaurant & Bar",
+    "Cuisine": "Thai",
+    "Neighborhood": "East Village, New York, NY",
+    "Address": "309 E 5th St, New York, NY 10003, USA",
+    "Latitude": 40.7268045,
+    "Longitude": -73.9882662
+  },
+  {
+    "Restaurant": "Bananas",
+    "Cuisine": "American (New)",
+    "Neighborhood": "East Village, New York, NY",
+    "Address": "174 1st Ave, New York, NY 10009, USA",
+    "Latitude": 40.7290328,
+    "Longitude": -73.9839151
+  },
+  {
+    "Restaurant": "Berimbau - Midtown",
+    "Cuisine": "Brazilian",
+    "Neighborhood": "Herald Square, New York, NY",
+    "Address": "3 W 36th St., New York, NY 10018, USA",
+    "Latitude": 40.7501458,
+    "Longitude": -73.9841391
+  },
+  {
+    "Restaurant": "Le Rivage",
+    "Cuisine": "French",
+    "Neighborhood": "Times Square/Theatre District, New York, NY",
+    "Address": "340 W 46th St, New York, NY 10036, USA",
+    "Latitude": 40.7602732,
+    "Longitude": -73.9895342
+  },
+  {
+    "Restaurant": "Plado Tasting Bar",
+    "Cuisine": "Mediterranean",
+    "Neighborhood": "East Village, New York, NY",
+    "Address": "192 E 2nd St, New York, NY 10009, USA",
+    "Latitude": 40.7225464,
+    "Longitude": -73.9838548
+  },
+  {
+    "Restaurant": "Mito - Bayside",
+    "Cuisine": "Asian Fusion",
+    "Neighborhood": "Bayside, New York, NY",
+    "Address": "210-35 26th Ave, Bayside, NY 11360, USA",
+    "Latitude": 40.778466,
+    "Longitude": -73.778951
+  },
+  {
+    "Restaurant": "Cull & Pistol Oyster Bar",
+    "Cuisine": "Seafood",
+    "Neighborhood": "Chelsea, New York, NY",
+    "Address": "75 9th Ave, New York, NY 10011, USA",
+    "Latitude": 40.7424509,
+    "Longitude": -74.0059581
+  },
+  {
+    "Restaurant": "State Grill and Bar",
+    "Cuisine": "American (Traditional)",
+    "Neighborhood": "Herald Square, New York, NY",
+    "Address": "21 W 33rd St, New York, NY 10118, USA",
+    "Latitude": 40.7485505,
+    "Longitude": -73.9859262
+  },
+  {
+    "Restaurant": "Tarallucci e Vino - NoMad",
+    "Cuisine": "Italian",
+    "Neighborhood": "Nomad, New York, NY",
+    "Address": "44 E 28th St, New York, NY 10016, USA",
+    "Latitude": 40.7434168,
+    "Longitude": -73.9847247
+  },
+  {
+    "Restaurant": "Il Fiorista",
+    "Cuisine": "Mediterranean",
+    "Neighborhood": "Nomad, New York, NY",
+    "Address": "17 W 26th St, New York, NY 10010, USA",
+    "Latitude": 40.7441519,
+    "Longitude": -73.9895739
+  },
+  {
+    "Restaurant": "Perry Street",
+    "Cuisine": "American (New)",
+    "Neighborhood": "West Village, New York, NY",
+    "Address": "Perry St, New York, NY 10014, USA",
+    "Latitude": 40.7352271,
+    "Longitude": -74.0055045
+  },
+  {
+    "Restaurant": "Fogo de Ch\u00e3o Brazilian Steakhouse",
+    "Cuisine": "Brazilian",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "40 W 53rd St, New York, NY 10019, USA",
+    "Latitude": 40.7610964,
+    "Longitude": -73.977761
+  },
+  {
+    "Restaurant": "Tao Uptown",
+    "Cuisine": "Pan-Asian",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "42 E 58th St, New York, NY 10022, USA",
+    "Latitude": 40.7626119,
+    "Longitude": -73.9714871
+  },
+  {
+    "Restaurant": "Barbounia",
+    "Cuisine": "Mediterranean",
+    "Neighborhood": "Gramercy, New York, NY",
+    "Address": "250 Park Ave S, New York, NY 10003, USA",
+    "Latitude": 40.7382621,
+    "Longitude": -73.9882199
+  },
+  {
+    "Restaurant": "Recette",
+    "Cuisine": "French",
+    "Neighborhood": "Williamsburg, New York, NY",
+    "Address": "103 Havemeyer St, Brooklyn, NY 11211, USA",
+    "Latitude": 40.7132215,
+    "Longitude": -73.9563255
+  },
+  {
+    "Restaurant": "Dos Caminos Times Square",
+    "Cuisine": "Mexican",
+    "Neighborhood": "Times Square/Theatre District, New York, NY",
+    "Address": "1567 Broadway, New York, NY 10036, USA",
+    "Latitude": 40.7595007,
+    "Longitude": -73.985587
+  },
+  {
+    "Restaurant": "Playa Betty's",
+    "Cuisine": "Mexican",
+    "Neighborhood": "Upper West Side, New York, NY",
+    "Address": "320 Amsterdam Ave, New York, NY 10023, USA",
+    "Latitude": 40.7808703,
+    "Longitude": -73.9803535
+  },
+  {
+    "Restaurant": "Trapizzino",
+    "Cuisine": "Italian",
+    "Neighborhood": "Lower East Side, New York, NY",
+    "Address": "144 Orchard St, New York, NY 10002, USA",
+    "Latitude": 40.7203593,
+    "Longitude": -73.9889521
+  },
+  {
+    "Restaurant": "Oceans",
+    "Cuisine": "Seafood",
+    "Neighborhood": "Gramercy, New York, NY",
+    "Address": "233 Park Ave S, New York, NY 10003, USA",
+    "Latitude": 40.7374674,
+    "Longitude": -73.9879206
+  },
+  {
+    "Restaurant": "Reyna",
+    "Cuisine": "Mediterranean",
+    "Neighborhood": "Union Square, New York, NY",
+    "Address": "11 E 13th St, New York, NY 10003, USA",
+    "Latitude": 40.735079,
+    "Longitude": -73.9931549
+  },
+  {
+    "Restaurant": "Blackbarn",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Nomad, New York, NY",
+    "Address": "19 E 26th St, New York, NY 10010, USA",
+    "Latitude": 40.743105,
+    "Longitude": -73.987104
+  },
+  {
+    "Restaurant": "Le Pavillon",
+    "Cuisine": "French",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "One Vanderbilt Ave, New York, NY 10017, USA",
+    "Latitude": 40.7540435,
+    "Longitude": -73.9771971
+  },
+  {
+    "Restaurant": "La Voglia",
+    "Cuisine": "Italian",
+    "Neighborhood": "Upper East Side, New York, NY",
+    "Address": "1645 3rd Ave, New York, NY 10128, USA",
+    "Latitude": 40.7826745,
+    "Longitude": -73.9508638
+  },
+  {
+    "Restaurant": "Pasta Louise",
+    "Cuisine": "Italian",
+    "Neighborhood": "Park Slope, New York, NY",
+    "Address": "1114 8th Ave, Brooklyn, NY 11215, USA",
+    "Latitude": 40.6642062,
+    "Longitude": -73.9807532
+  },
+  {
+    "Restaurant": "Iris",
+    "Cuisine": "Greek",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "1740 Broadway, New York, NY 10019, USA",
+    "Latitude": 40.7651145,
+    "Longitude": -73.9814962
+  },
+  {
+    "Restaurant": "RA Sushi Bar Restaurant \u2013 Times Square",
+    "Cuisine": "Japanese / Sushi",
+    "Neighborhood": "Times Square/Theatre District, New York, NY",
+    "Address": "229 W 43rd St, New York, NY 10036, USA",
+    "Latitude": 40.7575156,
+    "Longitude": -73.9876312
+  },
+  {
+    "Restaurant": "No Work Allowed",
+    "Cuisine": "Asian Fusion",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "235 E 53rd St Basement, New York, NY 10022, USA",
+    "Latitude": 40.7572771,
+    "Longitude": -73.9679771
+  },
+  {
+    "Restaurant": "Brooklyn Chop House - Times Square",
+    "Cuisine": "Asian Fusion",
+    "Neighborhood": "Times Square/Theatre District, New York, NY",
+    "Address": "253 W 47th St, New York, NY 10036, USA",
+    "Latitude": 40.7602153,
+    "Longitude": -73.9863868
+  },
+  {
+    "Restaurant": "Dinosaur Bar-B-Que - Harlem",
+    "Cuisine": "Barbecue",
+    "Neighborhood": "Harlem, New York, NY",
+    "Address": "700 W 125th St, New York, NY 10027, USA",
+    "Latitude": 40.8180319,
+    "Longitude": -73.9609174
+  },
+  {
+    "Restaurant": "Lido",
+    "Cuisine": "Italian",
+    "Neighborhood": "Harlem, New York, NY",
+    "Address": "2168 Frederick Douglass Blvd, New York, NY 10026, USA",
+    "Latitude": 40.8048926,
+    "Longitude": -73.9546798
+  },
+  {
+    "Restaurant": "Red Rooster Harlem",
+    "Cuisine": "Soul Food / Southern",
+    "Neighborhood": "Harlem, New York, NY",
+    "Address": "310 Lenox Ave, New York, NY 10027, USA",
+    "Latitude": 40.8081052,
+    "Longitude": -73.9447692
+  },
+  {
+    "Restaurant": "ABC Kitchen",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Union Square, New York, NY",
+    "Address": "35 E 18th St, New York, NY 10003, USA",
+    "Latitude": 40.7379036,
+    "Longitude": -73.9895053
+  },
+  {
+    "Restaurant": "The Library at The Public",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Noho, New York, NY",
+    "Address": "425 Lafayette St, New York, NY 10003, USA",
+    "Latitude": 40.7289857,
+    "Longitude": -73.9917342
+  },
+  {
+    "Restaurant": "Neir's Tavern",
+    "Cuisine": "American (Traditional)",
+    "Neighborhood": "Woodhaven, New York, NY",
+    "Address": "87-48 78th St, Woodhaven, NY 11421, USA",
+    "Latitude": 40.6898228,
+    "Longitude": -73.8635967
+  },
+  {
+    "Restaurant": "Tha Phraya",
+    "Cuisine": "Thai",
+    "Neighborhood": "Upper East Side, New York, NY",
+    "Address": "1553 2nd Ave, New York, NY 10028, USA",
+    "Latitude": 40.7745319,
+    "Longitude": -73.954509
+  },
+  {
+    "Restaurant": "La Grande Boucherie",
+    "Cuisine": "French",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "145 W 53rd St, New York, NY 10019, USA",
+    "Latitude": 40.7630013,
+    "Longitude": -73.9802753
+  },
+  {
+    "Restaurant": "Fish Cheeks",
+    "Cuisine": "Thai",
+    "Neighborhood": "Noho, New York, NY",
+    "Address": "55 Bond St, New York, NY 10012, USA",
+    "Latitude": 40.7256763,
+    "Longitude": -73.9926822
+  },
+  {
+    "Restaurant": "Yama Ramen",
+    "Cuisine": "Japanese / Sushi",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "60 W 48th St, New York, NY 10036, USA",
+    "Latitude": 40.7581743,
+    "Longitude": -73.9806218
+  },
+  {
+    "Restaurant": "Broadway Lounge",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Times Square/Theatre District, New York, NY",
+    "Address": "1535 Broadway, New York, NY 10036, USA",
+    "Latitude": 40.7588268,
+    "Longitude": -73.986382
+  },
+  {
+    "Restaurant": "The Dutch",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Soho, New York, NY",
+    "Address": "131 Sullivan St, New York, NY 10012, USA",
+    "Latitude": 40.7265479,
+    "Longitude": -74.0021666
+  },
+  {
+    "Restaurant": "Kissaki",
+    "Cuisine": "Japanese / Sushi",
+    "Neighborhood": "East Village, New York, NY",
+    "Address": "319 Bowery, New York, NY 10003, USA",
+    "Latitude": 40.725321,
+    "Longitude": -73.9918457
+  },
+  {
+    "Restaurant": "Socarrat Paella Bar - Midtown East",
+    "Cuisine": "Spanish",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "953 2nd Ave, New York, NY 10022, USA",
+    "Latitude": 40.7553346,
+    "Longitude": -73.968549
+  },
+  {
+    "Restaurant": "Crave Fishbar - Midtown",
+    "Cuisine": "Seafood",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "945 2nd Ave, New York, NY 10022, USA",
+    "Latitude": 40.755145,
+    "Longitude": -73.9686917
+  },
+  {
+    "Restaurant": "Kings of Kobe",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Hells Kitchen, New York, NY",
+    "Address": "650 W 42nd St, New York, NY 10036, USA",
+    "Latitude": 40.7614321,
+    "Longitude": -74.0004491
+  },
+  {
+    "Restaurant": "Sake No Hana",
+    "Cuisine": "Japanese / Sushi",
+    "Neighborhood": "Lower East Side, New York, NY",
+    "Address": "145 Bowery, New York, NY 10002, USA",
+    "Latitude": 40.7189569,
+    "Longitude": -73.9944117
+  },
+  {
+    "Restaurant": "Bar Sprezzatura",
+    "Cuisine": "Italian",
+    "Neighborhood": "Times Square/Theatre District, New York, NY",
+    "Address": "251 W 48th St, New York, NY 10036, USA",
+    "Latitude": 40.7610219,
+    "Longitude": -73.986653
+  },
+  {
+    "Restaurant": "Wagamama - Murray Hill",
+    "Cuisine": "Asian Fusion",
+    "Neighborhood": "Murray Hill, New York, NY",
+    "Address": "605 3rd Ave, New York, NY 10158, USA",
+    "Latitude": 40.7488816,
+    "Longitude": -73.9751057
+  },
+  {
+    "Restaurant": "Bottino",
+    "Cuisine": "Italian",
+    "Neighborhood": "Chelsea, New York, NY",
+    "Address": "246 10th Ave, New York, NY 10001, USA",
+    "Latitude": 40.7485037,
+    "Longitude": -74.0032891
+  },
+  {
+    "Restaurant": "Noreetuh",
+    "Cuisine": "Hawaiian",
+    "Neighborhood": "East Village, New York, NY",
+    "Address": "128 1st Ave, New York, NY 10009, USA",
+    "Latitude": 40.7272947,
+    "Longitude": -73.9852521
+  },
+  {
+    "Restaurant": "Twin Tails",
+    "Cuisine": "Thai",
+    "Neighborhood": "Upper West Side, New York, NY",
+    "Address": "10 Columbus Cir 3rd Floor, New York, NY 10019, USA",
+    "Latitude": 40.7686531,
+    "Longitude": -73.9832874
+  },
+  {
+    "Restaurant": "Charlie Palmer Steak IV",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Times Square/Theatre District, New York, NY",
+    "Address": "The Knickerbocker Hotel, 6 Times Sq 4th floor, New York, NY 10036, USA",
+    "Latitude": 40.7554688,
+    "Longitude": -73.9863041
+  },
+  {
+    "Restaurant": "Ocean Prime",
+    "Cuisine": "Seafood",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "123 W 52nd St, New York, NY 10019, USA",
+    "Latitude": 40.7617173,
+    "Longitude": -73.980547
+  },
+  {
+    "Restaurant": "La Gioconda",
+    "Cuisine": "Italian",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "226 E 53rd St, New York, NY 10022, USA",
+    "Latitude": 40.7571743,
+    "Longitude": -73.968383
+  },
+  {
+    "Restaurant": "Chez Nick",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Upper East Side, New York, NY",
+    "Address": "1737 York Ave, New York, NY 10128, USA",
+    "Latitude": 40.7790105,
+    "Longitude": -73.9452127
+  },
+  {
+    "Restaurant": "Oda House - Manhattan",
+    "Cuisine": "Eastern European",
+    "Neighborhood": "Upper East Side, New York, NY",
+    "Address": "406 E 73rd St, New York, NY 10021, USA",
+    "Latitude": 40.7681035,
+    "Longitude": -73.9549634
+  },
+  {
+    "Restaurant": "Sarabeth's Central Park South",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "40 Central Park S Located in: 40 West 59th Street Condominium, New York, NY 10019, USA",
+    "Latitude": 40.7825547,
+    "Longitude": -73.9655834
+  },
+  {
+    "Restaurant": "Stout NYC Grand Central",
+    "Cuisine": "American (Traditional)",
+    "Neighborhood": "Murray Hill, New York, NY",
+    "Address": "60 E 41st St, New York, NY 10017, USA",
+    "Latitude": 40.7515957,
+    "Longitude": -73.9788468
+  },
+  {
+    "Restaurant": "Crave Fishbar - Upper West Side",
+    "Cuisine": "Seafood",
+    "Neighborhood": "Upper West Side, New York, NY",
+    "Address": "428 Amsterdam Ave, New York, NY 10024, USA",
+    "Latitude": 40.7842654,
+    "Longitude": -73.9778134
+  },
+  {
+    "Restaurant": "Monterey",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "37 E 50th St, New York, NY 10022, USA",
+    "Latitude": 40.7578864,
+    "Longitude": -73.9746074
+  },
+  {
+    "Restaurant": "Delmonico's",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Lower Manhattan, New York, NY",
+    "Address": "56 Beaver St, New York, NY 10004, USA",
+    "Latitude": 40.7049925,
+    "Longitude": -74.0105948
+  },
+  {
+    "Restaurant": "Kyma",
+    "Cuisine": "Greek",
+    "Neighborhood": "Flatiron District, New York, NY",
+    "Address": "15 W 18th St, New York, NY 10011, USA",
+    "Latitude": 40.7391382,
+    "Longitude": -73.9928051
+  },
+  {
+    "Restaurant": "Comal",
+    "Cuisine": "Mexican",
+    "Neighborhood": "Lower East Side, New York, NY",
+    "Address": "116 Forsyth St, New York, NY 10002, USA",
+    "Latitude": 40.7191233,
+    "Longitude": -73.9921624
+  },
+  {
+    "Restaurant": "Danji",
+    "Cuisine": "Korean",
+    "Neighborhood": "Hells Kitchen, New York, NY",
+    "Address": "346 W 52nd St, New York, NY 10019, USA",
+    "Latitude": 40.7640415,
+    "Longitude": -73.9868497
+  },
+  {
+    "Restaurant": "Pomp & Circumstance",
+    "Cuisine": "Mediterranean",
+    "Neighborhood": "Williamsburg, New York, NY",
+    "Address": "577 Lorimer St, Brooklyn, NY 11211, USA",
+    "Latitude": 40.7142586,
+    "Longitude": -73.9496365
+  },
+  {
+    "Restaurant": "Sabai Thai",
+    "Cuisine": "Thai",
+    "Neighborhood": "Nomad, New York, NY",
+    "Address": "432 Park Ave S, New York, NY 10016, USA",
+    "Latitude": 40.7442673,
+    "Longitude": -73.9837039
+  },
+  {
+    "Restaurant": "Olio e Pi\u00f9",
+    "Cuisine": "Italian",
+    "Neighborhood": "West Village, New York, NY",
+    "Address": "3 Greenwich Ave, New York, NY 10014, USA",
+    "Latitude": 40.7338471,
+    "Longitude": -73.9998667
+  },
+  {
+    "Restaurant": "Meadowsweet",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Williamsburg, New York, NY",
+    "Address": "149 Broadway, Brooklyn, NY 11211, USA",
+    "Latitude": 40.7104256,
+    "Longitude": -73.9631243
+  },
+  {
+    "Restaurant": "Indochine",
+    "Cuisine": "Vietnamese",
+    "Neighborhood": "Noho, New York, NY",
+    "Address": "430 Lafayette St, New York, NY 10003, USA",
+    "Latitude": 40.7293047,
+    "Longitude": -73.9925522
+  },
+  {
+    "Restaurant": "Melba\u2019s",
+    "Cuisine": "Soul Food / Southern",
+    "Neighborhood": "Harlem, New York, NY",
+    "Address": "300 W 114th St, New York, NY 10026, USA",
+    "Latitude": 40.8031258,
+    "Longitude": -73.9566693
+  },
+  {
+    "Restaurant": "Moono",
+    "Cuisine": "Korean",
+    "Neighborhood": "Koreatown, New York, NY",
+    "Address": "29 E 32nd St, New York, NY 10016, USA",
+    "Latitude": 40.7464153,
+    "Longitude": -73.9833315
+  },
+  {
+    "Restaurant": "Ophelia Lounge NYC",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "3 Mitchell Pl 26th floor, New York, NY 10017, USA",
+    "Latitude": 40.753401,
+    "Longitude": -73.9661736
+  },
+  {
+    "Restaurant": "Baires Grill New York",
+    "Cuisine": "Argentinian",
+    "Neighborhood": "Hells Kitchen, New York, NY",
+    "Address": "350 W 50th St, New York, NY 10019, USA",
+    "Latitude": 40.7626957,
+    "Longitude": -73.9875942
+  },
+  {
+    "Restaurant": "Mezze on the River",
+    "Cuisine": "American (Traditional)",
+    "Neighborhood": "Lower Manhattan, New York, NY",
+    "Address": "375 S End Ave, New York, NY 10280, USA",
+    "Latitude": 40.7112505,
+    "Longitude": -74.0176287
+  },
+  {
+    "Restaurant": "Bobo",
+    "Cuisine": "French",
+    "Neighborhood": "West Village, New York, NY",
+    "Address": "181 W 10th St, New York, NY 10014, USA",
+    "Latitude": 40.7345161,
+    "Longitude": -74.0026414
+  },
+  {
+    "Restaurant": "Maya",
+    "Cuisine": "Mexican",
+    "Neighborhood": "Upper East Side, New York, NY",
+    "Address": "1191 1st Ave, New York, NY 10065, USA",
+    "Latitude": 40.7631741,
+    "Longitude": -73.9597236
+  },
+  {
+    "Restaurant": "One Dine",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Lower Manhattan, New York, NY",
+    "Address": "117 West St, New York, NY 10007, USA",
+    "Latitude": 40.7131216,
+    "Longitude": -74.0133631
+  },
+  {
+    "Restaurant": "Four Twenty Five",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "425 Park Ave, New York, NY 10022, USA",
+    "Latitude": 40.7605565,
+    "Longitude": -73.9710689
+  },
+  {
+    "Restaurant": "Chazz Palminteri Italian Restaurant",
+    "Cuisine": "Italian",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "30 W 46th St, New York, NY 10036, USA",
+    "Latitude": 40.7564318,
+    "Longitude": -73.9806682
+  },
+  {
+    "Restaurant": "STK Downtown",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Meatpacking District, New York, NY",
+    "Address": "26 Little W 12th St, New York, NY 10014, USA",
+    "Latitude": 40.739859,
+    "Longitude": -74.0074038
+  },
+  {
+    "Restaurant": "Il Falco",
+    "Cuisine": "Italian",
+    "Neighborhood": "Long Island City, New York, NY",
+    "Address": "21-50 44th Dr, Long Island City, NY 11101, USA",
+    "Latitude": 40.747512,
+    "Longitude": -73.945545
+  },
+  {
+    "Restaurant": "Osteria 57",
+    "Cuisine": "Italian",
+    "Neighborhood": "Greenwich Village, New York, NY",
+    "Address": "453 6th Ave, New York, NY 10011, USA",
+    "Latitude": 40.735162,
+    "Longitude": -73.9987529
+  },
+  {
+    "Restaurant": "The Lodge Bar by Stout NYC at Bryant Park",
+    "Cuisine": "Italian",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "109 W 39th St, New York, NY 10018, USA",
+    "Latitude": 40.7532842,
+    "Longitude": -73.9859522
+  },
+  {
+    "Restaurant": "Ci Siamo",
+    "Cuisine": "Italian",
+    "Neighborhood": "Chelsea, New York, NY",
+    "Address": "440 W 33rd St Suite #100, New York, NY 10001, USA",
+    "Latitude": 40.7525543,
+    "Longitude": -73.9989302
+  },
+  {
+    "Restaurant": "Maisonetta",
+    "Cuisine": "Mexican",
+    "Neighborhood": "Mott Haven, New York, NY",
+    "Address": "141 Lincoln Ave, Bronx, NY 10454, USA",
+    "Latitude": 40.808723,
+    "Longitude": -73.9291428
+  },
+  {
+    "Restaurant": "Amali",
+    "Cuisine": "Mediterranean",
+    "Neighborhood": "Upper East Side, New York, NY",
+    "Address": "115 E 60th St, New York, NY 10022, USA",
+    "Latitude": 40.7634288,
+    "Longitude": -73.9685299
+  },
+  {
+    "Restaurant": "Pulperia Latin Mediterranean Kitchen",
+    "Cuisine": "Mediterranean",
+    "Neighborhood": "Times Square/Theatre District, New York, NY",
+    "Address": "338 W 46th St, New York, NY 10036, USA",
+    "Latitude": 40.7601272,
+    "Longitude": -73.989554
+  },
+  {
+    "Restaurant": "Le Gratin",
+    "Cuisine": "French",
+    "Neighborhood": "Lower Manhattan, New York, NY",
+    "Address": "5 Beekman St, New York, NY 10038, USA",
+    "Latitude": 40.7112585,
+    "Longitude": -74.0066214
+  },
+  {
+    "Restaurant": "Oscar Wilde",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Nomad, New York, NY",
+    "Address": "45 W 27th St, New York, NY 10001, USA",
+    "Latitude": 40.7451715,
+    "Longitude": -73.9900275
+  },
+  {
+    "Restaurant": "Mable's Smokehouse and Banquet Hall",
+    "Cuisine": "Barbecue",
+    "Neighborhood": "Williamsburg, New York, NY",
+    "Address": "44 Berry St, Brooklyn, NY 11249, USA",
+    "Latitude": 40.7211699,
+    "Longitude": -73.9564824
+  },
+  {
+    "Restaurant": "Craft",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Gramercy, New York, NY",
+    "Address": "43 E 19th St, New York, NY 10003, USA",
+    "Latitude": 40.7381721,
+    "Longitude": -73.9886689
+  },
+  {
+    "Restaurant": "Seawolf - Bushwick",
+    "Cuisine": "Seafood",
+    "Neighborhood": "Bushwick, New York, NY",
+    "Address": "19 Wyckoff Ave, Brooklyn, NY 11237, USA",
+    "Latitude": 40.7068357,
+    "Longitude": -73.9228064
+  },
+  {
+    "Restaurant": "Morton's The Steakhouse\u2014Manhattan",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "551 5th Ave, New York, NY 10017, USA",
+    "Latitude": 40.7557002,
+    "Longitude": -73.9790606
+  },
+  {
+    "Restaurant": "Raval Steakhouse",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Tompkinsville, New York, NY",
+    "Address": "12 Minthorne St, Staten Island, NY 10301, USA",
+    "Latitude": 40.6371226,
+    "Longitude": -74.0755683
+  },
+  {
+    "Restaurant": "Sungold",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Williamsburg, New York, NY",
+    "Address": "96 Wythe Ave, Brooklyn, NY 11249, USA",
+    "Latitude": 40.7216011,
+    "Longitude": -73.9588991
+  },
+  {
+    "Restaurant": "Carmine's - Upper West Side",
+    "Cuisine": "Italian",
+    "Neighborhood": "Upper West Side, New York, NY",
+    "Address": "2450 Broadway, New York, NY 10024, USA",
+    "Latitude": 40.7911087,
+    "Longitude": -73.9739812
+  },
+  {
+    "Restaurant": "Momofuku Noodle Bar",
+    "Cuisine": "Asian Fusion",
+    "Neighborhood": "East Village, New York, NY",
+    "Address": "171 1st Ave, New York, NY 10003, USA",
+    "Latitude": 40.7292397,
+    "Longitude": -73.9845028
+  },
+  {
+    "Restaurant": "Leonetta",
+    "Cuisine": "Mediterranean",
+    "Neighborhood": "Murray Hill, New York, NY",
+    "Address": "181 Lexington Ave, New York, NY 10016, USA",
+    "Latitude": 40.7445325,
+    "Longitude": -73.9808436
+  },
+  {
+    "Restaurant": "Bryant Park Grill",
+    "Cuisine": "American (Traditional)",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "25 W 40th St, New York, NY 10018, USA",
+    "Latitude": 40.7531999,
+    "Longitude": -73.982957
+  },
+  {
+    "Restaurant": "Legasea",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Garment District, New York, NY",
+    "Address": "485 7th Ave, New York, NY 10018, USA",
+    "Latitude": 40.7523102,
+    "Longitude": -73.9891202
+  },
+  {
+    "Restaurant": "Riverpark",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Kips Bay, New York, NY",
+    "Address": "440-450 E 29th St, New York, NY 10016, USA",
+    "Latitude": 40.7392692,
+    "Longitude": -73.9734613
+  },
+  {
+    "Restaurant": "Steak Frites Bistro",
+    "Cuisine": "French",
+    "Neighborhood": "Garment District, New York, NY",
+    "Address": "496 9th Ave, New York, NY 10018, USA",
+    "Latitude": 40.7555944,
+    "Longitude": -73.9943859
+  },
+  {
+    "Restaurant": "The Chemistry Room",
+    "Cuisine": "Japanese / Sushi",
+    "Neighborhood": "Times Square/Theatre District, New York, NY",
+    "Address": "130 W 47th St, New York, NY 10036, USA",
+    "Latitude": 40.7583541,
+    "Longitude": -73.9832143
+  },
+  {
+    "Restaurant": "Walls\u00e9",
+    "Cuisine": "Austrian",
+    "Neighborhood": "West Village, New York, NY",
+    "Address": "344 W 11th St, New York, NY 10014, USA",
+    "Latitude": 40.7354249,
+    "Longitude": -74.0082356
+  },
+  {
+    "Restaurant": "Stout NYC Bryant Park",
+    "Cuisine": "American (Traditional)",
+    "Neighborhood": "Garment District, New York, NY",
+    "Address": "109 W 39th St, New York, NY 10018, USA",
+    "Latitude": 40.7532842,
+    "Longitude": -73.9859522
+  },
+  {
+    "Restaurant": "Blue Fin",
+    "Cuisine": "Seafood",
+    "Neighborhood": "Times Square/Theatre District, New York, NY",
+    "Address": "1567 Broadway, New York, NY 10036, USA",
+    "Latitude": 40.7595007,
+    "Longitude": -73.985587
+  },
+  {
+    "Restaurant": "Giorgio's of Gramercy",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Gramercy, New York, NY",
+    "Address": "27 E 21st St, New York, NY 10010, USA",
+    "Latitude": 40.7397115,
+    "Longitude": -73.9886319
+  },
+  {
+    "Restaurant": "Mastro's Steakhouse NYC",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "1285 6th Ave, New York, NY 10019, USA",
+    "Latitude": 40.7611039,
+    "Longitude": -73.9801635
+  },
+  {
+    "Restaurant": "Hawksmoor",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Gramercy, New York, NY",
+    "Address": "109 E 22nd St, New York, NY 10010, USA",
+    "Latitude": 40.7395356,
+    "Longitude": -73.9863884
+  },
+  {
+    "Restaurant": "Langan's",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Times Square/Theatre District, New York, NY",
+    "Address": "114 W 47th St, New York, NY 10036, USA",
+    "Latitude": 40.7582963,
+    "Longitude": -73.9828891
+  },
+  {
+    "Restaurant": "abcV",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Flatiron District, New York, NY",
+    "Address": "38 E 19th St, New York, NY 10003, USA",
+    "Latitude": 40.7379868,
+    "Longitude": -73.9892758
+  },
+  {
+    "Restaurant": "Skinos",
+    "Cuisine": "Mediterranean",
+    "Neighborhood": "Lower Manhattan, New York, NY",
+    "Address": "123 Washington St, New York, NY 10006, USA",
+    "Latitude": 40.7092122,
+    "Longitude": -74.0137588
+  },
+  {
+    "Restaurant": "Sant Ambroeus\u2014Brookfield",
+    "Cuisine": "Italian",
+    "Neighborhood": "Battery Park City, New York, NY",
+    "Address": "230 Vesey St, New York, NY 10080, USA",
+    "Latitude": 40.7124742,
+    "Longitude": -74.0156903
+  },
+  {
+    "Restaurant": "JoJo",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Upper East Side, New York, NY",
+    "Address": "160 E 64th St, New York, NY 10065, USA",
+    "Latitude": 40.7650895,
+    "Longitude": -73.9657018
+  },
+  {
+    "Restaurant": "Akoya",
+    "Cuisine": "Japanese / Sushi",
+    "Neighborhood": "Times Square/Theatre District, New York, NY",
+    "Address": "6 Times Sq, New York, NY 10036, USA",
+    "Latitude": 40.7554688,
+    "Longitude": -73.9863041
+  },
+  {
+    "Restaurant": "Fandi Mata",
+    "Cuisine": "Mediterranean",
+    "Neighborhood": "Williamsburg, New York, NY",
+    "Address": "74 Bayard St, Brooklyn, NY 11222, USA",
+    "Latitude": 40.7188864,
+    "Longitude": -73.9492385
+  },
+  {
+    "Restaurant": "Via 13",
+    "Cuisine": "Italian",
+    "Neighborhood": "West Village, New York, NY",
+    "Address": "140 W 13th St, New York, NY 10011, USA",
+    "Latitude": 40.7372586,
+    "Longitude": -73.9991582
+  },
+  {
+    "Restaurant": "Rosemary's Midtown",
+    "Cuisine": "Italian",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "825 3rd Ave, New York, NY 10022, USA",
+    "Latitude": 40.7558815,
+    "Longitude": -73.9703742
+  },
+  {
+    "Restaurant": "La Sirene UWS",
+    "Cuisine": "French",
+    "Neighborhood": "Upper West Side, New York, NY",
+    "Address": "416 Amsterdam Ave, New York, NY 10024, USA",
+    "Latitude": 40.783853,
+    "Longitude": -73.9782
+  },
+  {
+    "Restaurant": "Coqodaq",
+    "Cuisine": "Korean",
+    "Neighborhood": "Flatiron District, New York, NY",
+    "Address": "12 E 22nd St, New York, NY 10010, USA",
+    "Latitude": 40.7400559,
+    "Longitude": -73.9887467
+  },
+  {
+    "Restaurant": "Bad Roman",
+    "Cuisine": "Italian",
+    "Neighborhood": "Upper West Side, New York, NY",
+    "Address": "3rd floor, 10 Columbus Cir, New York, NY 10019, USA",
+    "Latitude": 40.7685526,
+    "Longitude": -73.9831866
+  },
+  {
+    "Restaurant": "Bocca Di Bacco\u2014Chelsea",
+    "Cuisine": "Italian",
+    "Neighborhood": "Chelsea, New York, NY",
+    "Address": "169 9th Ave, New York, NY 10011, USA",
+    "Latitude": 40.744614,
+    "Longitude": -74.0029792
+  },
+  {
+    "Restaurant": "Maizal",
+    "Cuisine": "Mexican",
+    "Neighborhood": "Rosebank, New York, NY",
+    "Address": "990 Bay St, Staten Island, NY 10305, USA",
+    "Latitude": 40.6183546,
+    "Longitude": -74.0695183
+  },
+  {
+    "Restaurant": "Siren Oyster Bar & Restaurant",
+    "Cuisine": "Seafood",
+    "Neighborhood": "South Slope, New York, NY",
+    "Address": "687 5th Ave, Brooklyn, NY 11215, USA",
+    "Latitude": 40.6614057,
+    "Longitude": -73.9930217
+  },
+  {
+    "Restaurant": "Society Cafe",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Greenwich Village, New York, NY",
+    "Address": "52 W 13th St, New York, NY 10011, USA",
+    "Latitude": 40.7361334,
+    "Longitude": -73.9966616
+  },
+  {
+    "Restaurant": "Koi New York",
+    "Cuisine": "Japanese / Sushi",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "40 W 40th St, New York, NY 10018, USA",
+    "Latitude": 40.7528589,
+    "Longitude": -73.9838979
+  },
+  {
+    "Restaurant": "Rossini's",
+    "Cuisine": "Italian",
+    "Neighborhood": "Murray Hill, New York, NY",
+    "Address": "108 E 38th St, New York, NY 10016, USA",
+    "Latitude": 40.7491356,
+    "Longitude": -73.9788985
+  },
+  {
+    "Restaurant": "Mae Mae Cafe & Plant Shop",
+    "Cuisine": "Eclectic",
+    "Neighborhood": "Mott Haven, New York, NY",
+    "Address": "2417 Third Ave, Bronx, NY 10451, USA",
+    "Latitude": 40.8087961,
+    "Longitude": -73.9307007
+  },
+  {
+    "Restaurant": "Palermo Argentinian Bistro - Gramercy",
+    "Cuisine": "Argentinian",
+    "Neighborhood": "Gramercy, New York, NY",
+    "Address": "53 Irving Pl, New York, NY 10003, USA",
+    "Latitude": 40.7360984,
+    "Longitude": -73.9874916
+  },
+  {
+    "Restaurant": "Mission Ceviche - Union Square",
+    "Cuisine": "Peruvian",
+    "Neighborhood": "Union Square, New York, NY",
+    "Address": "7 E 17th St, New York, NY 10003, USA",
+    "Latitude": 40.7378555,
+    "Longitude": -73.9913424
+  },
+  {
+    "Restaurant": "Mission Ceviche - Upper East Side",
+    "Cuisine": "Peruvian",
+    "Neighborhood": "Upper East Side, New York, NY",
+    "Address": "1400 2nd Ave, New York, NY 10021, USA",
+    "Latitude": 40.769265,
+    "Longitude": -73.9578044
+  },
+  {
+    "Restaurant": "Dinner Party",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Clinton Hill, New York, NY",
+    "Address": "274 Hall St, Brooklyn, NY 11205, USA",
+    "Latitude": 40.6900427,
+    "Longitude": -73.9654379
+  },
+  {
+    "Restaurant": "Panda Harlem",
+    "Cuisine": "Chinese",
+    "Neighborhood": "Harlem, New York, NY",
+    "Address": "2331 12th Ave, New York, NY 10027, USA",
+    "Latitude": 40.8199852,
+    "Longitude": -73.9585029
+  },
+  {
+    "Restaurant": "Wagamama - Nomad/Flatiron",
+    "Cuisine": "Asian Fusion",
+    "Neighborhood": "Flatiron District, New York, NY",
+    "Address": "210 fifth avenue at, W 26th St, New York, NY 10010, USA",
+    "Latitude": 40.7433574,
+    "Longitude": -73.9887711
+  },
+  {
+    "Restaurant": "Barbetta",
+    "Cuisine": "Italian",
+    "Neighborhood": "Times Square/Theatre District, New York, NY",
+    "Address": "321 W 46th St, New York, NY 10036, USA",
+    "Latitude": 40.7604036,
+    "Longitude": -73.9889142
+  },
+  {
+    "Restaurant": "Ai Fiori",
+    "Cuisine": "Italian",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "400 5th Ave #2, New York, NY 10018, USA",
+    "Latitude": 40.7500752,
+    "Longitude": -73.9837835
+  },
+  {
+    "Restaurant": "Hutong",
+    "Cuisine": "Chinese",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "Inside Beacon Courtyard, 731 Lexington Ave, New York, NY 10022, USA",
+    "Latitude": 40.7618633,
+    "Longitude": -73.9682894
+  },
+  {
+    "Restaurant": "Audace",
+    "Cuisine": "Italian",
+    "Neighborhood": "Nomad, New York, NY",
+    "Address": "365 Park Ave S, New York, NY 10016, USA",
+    "Latitude": 40.7420916,
+    "Longitude": -73.9846138
+  },
+  {
+    "Restaurant": "Kubeh",
+    "Cuisine": "Middle Eastern",
+    "Neighborhood": "Greenwich Village, New York, NY",
+    "Address": "464 6th Ave, New York, NY 10011, USA",
+    "Latitude": 40.7354505,
+    "Longitude": -73.9979916
+  },
+  {
+    "Restaurant": "The Dram Shop Bar",
+    "Cuisine": "American (Traditional)",
+    "Neighborhood": "Park Slope, New York, NY",
+    "Address": "339 9th St, Brooklyn, NY 11215, USA",
+    "Latitude": 40.6688849,
+    "Longitude": -73.9850545
+  },
+  {
+    "Restaurant": "Kellari Taverna",
+    "Cuisine": "Greek",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "19 W 44th St, New York, NY 10036, USA",
+    "Latitude": 40.7553215,
+    "Longitude": -73.9814794
+  },
+  {
+    "Restaurant": "Le B.",
+    "Cuisine": "French",
+    "Neighborhood": "West Village, New York, NY",
+    "Address": "283 W 12th St, New York, NY 10014, USA",
+    "Latitude": 40.7376887,
+    "Longitude": -74.0040233
+  },
+  {
+    "Restaurant": "Ben & Jack's 44th Street",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "219 E 44th St, New York, NY 10017, USA",
+    "Latitude": 40.7518502,
+    "Longitude": -73.9725168
+  },
+  {
+    "Restaurant": "Mr Chow New York - 57th Street",
+    "Cuisine": "Chinese",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "324 E 57th St, New York, NY 10022, USA",
+    "Latitude": 40.7588261,
+    "Longitude": -73.9643295
+  },
+  {
+    "Restaurant": "Luigi's",
+    "Cuisine": "Italian",
+    "Neighborhood": "New Hyde Park, New York, NY",
+    "Address": "265-21 Union Tpke, Queens, NY 11040, USA",
+    "Latitude": 40.7496513,
+    "Longitude": -73.7075825
+  },
+  {
+    "Restaurant": "When in Bangkok",
+    "Cuisine": "Thai",
+    "Neighborhood": "Flushing, New York, NY",
+    "Address": "161-16 Northern Blvd, Flushing, NY 11358, USA",
+    "Latitude": 40.7622,
+    "Longitude": -73.8042757
+  },
+  {
+    "Restaurant": "Warren Street Bar & Restaurant",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Tribeca, New York, NY",
+    "Address": "86 Warren St, New York, NY 10007, USA",
+    "Latitude": 40.7155632,
+    "Longitude": -74.010503
+  },
+  {
+    "Restaurant": "Obao Midtown East",
+    "Cuisine": "Thai",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "222 E 53rd St, New York, NY 10022, USA",
+    "Latitude": 40.7571525,
+    "Longitude": -73.9685544
+  },
+  {
+    "Restaurant": "The Half Pint",
+    "Cuisine": "Gastropub",
+    "Neighborhood": "Greenwich Village, New York, NY",
+    "Address": "76 W 3rd St, New York, NY 10012, USA",
+    "Latitude": 40.7295121,
+    "Longitude": -73.9985343
+  },
+  {
+    "Restaurant": "Felice Montague",
+    "Cuisine": "Italian",
+    "Neighborhood": "Brooklyn Heights, New York, NY",
+    "Address": "84 Montague St, Brooklyn, NY 11201, USA",
+    "Latitude": 40.6951676,
+    "Longitude": -73.9961032
+  },
+  {
+    "Restaurant": "Tuscan Hills",
+    "Cuisine": "Italian",
+    "Neighborhood": "Forest Hills, New York, NY",
+    "Address": "110-60 Queens Blvd, Forest Hills, NY 11375, USA",
+    "Latitude": 40.7189717,
+    "Longitude": -73.8393511
+  },
+  {
+    "Restaurant": "Da Andrea - Chelsea",
+    "Cuisine": "Italian",
+    "Neighborhood": "Chelsea, New York, NY",
+    "Address": "160 8th Ave, New York, NY 10011, USA",
+    "Latitude": 40.7420291,
+    "Longitude": -74.0004666
+  },
+  {
+    "Restaurant": "Felice on Hudson",
+    "Cuisine": "Italian",
+    "Neighborhood": "West Village, New York, NY",
+    "Address": "615 Hudson St, New York, NY 10014, USA",
+    "Latitude": 40.7378294,
+    "Longitude": -74.0058927
+  },
+  {
+    "Restaurant": "La Masseria",
+    "Cuisine": "Italian",
+    "Neighborhood": "Times Square/Theatre District, New York, NY",
+    "Address": "235 W 48th St, New York, NY 10036, USA",
+    "Latitude": 40.7608161,
+    "Longitude": -73.9860025
+  },
+  {
+    "Restaurant": "Bocca Di Bacco\u2014Theatre District",
+    "Cuisine": "Italian",
+    "Neighborhood": "Hells Kitchen, New York, NY",
+    "Address": "635 9th Ave, New York, NY 10036, USA",
+    "Latitude": 40.7602533,
+    "Longitude": -73.9916643
+  },
+  {
+    "Restaurant": "Kimika",
+    "Cuisine": "Eclectic",
+    "Neighborhood": "Nolita, New York, NY",
+    "Address": "40 Kenmare St, New York, NY 10012, USA",
+    "Latitude": 40.7206118,
+    "Longitude": -73.9952615
+  },
+  {
+    "Restaurant": "Sushi of Gari 46",
+    "Cuisine": "Japanese / Sushi",
+    "Neighborhood": "Times Square/Theatre District, New York, NY",
+    "Address": "347 W 46th St, New York, NY 10036, USA",
+    "Latitude": 40.7606826,
+    "Longitude": -73.9896109
+  },
+  {
+    "Restaurant": "Bar Milano by Eataly",
+    "Cuisine": "Italian",
+    "Neighborhood": "Flatiron District, New York, NY",
+    "Address": "200 5th Ave, New York, NY 10010, USA",
+    "Latitude": 40.7419668,
+    "Longitude": -73.9895296
+  },
+  {
+    "Restaurant": "The Shell Seafood Kitchen",
+    "Cuisine": "Mediterranean",
+    "Neighborhood": "Upper West Side, New York, NY",
+    "Address": "635 Amsterdam Ave, New York, NY 10025, USA",
+    "Latitude": 40.7906204,
+    "Longitude": -73.9724608
+  },
+  {
+    "Restaurant": "Flava of the Bronx",
+    "Cuisine": "Caribbean",
+    "Neighborhood": "Woodstock, New York, NY",
+    "Address": "3114 Third Ave, Bronx, NY 10451, USA",
+    "Latitude": 40.8219522,
+    "Longitude": -73.9114987
+  },
+  {
+    "Restaurant": "Ammos Estiatorio - Grand Central",
+    "Cuisine": "Mediterranean",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "52 Vanderbilt Ave, New York, NY 10017, USA",
+    "Latitude": 40.755008,
+    "Longitude": -73.978159
+  },
+  {
+    "Restaurant": "ABC Cocina",
+    "Cuisine": "Latin American",
+    "Neighborhood": "Union Square, New York, NY",
+    "Address": "38 E 19th St, New York, NY 10003, USA",
+    "Latitude": 40.7379868,
+    "Longitude": -73.9892758
+  },
+  {
+    "Restaurant": "Veselka",
+    "Cuisine": "Ukrainian",
+    "Neighborhood": "East Village, New York, NY",
+    "Address": "144 2nd Ave, New York, NY 10003, USA",
+    "Latitude": 40.7289226,
+    "Longitude": -73.9869285
+  },
+  {
+    "Restaurant": "Patrick's on the Hill",
+    "Cuisine": "Caribbean",
+    "Neighborhood": "Hamilton Heights, New York, NY",
+    "Address": "1627-1635 Amsterdam Ave, New York, NY 10031, USA",
+    "Latitude": 40.822384,
+    "Longitude": -73.9494596
+  },
+  {
+    "Restaurant": "Felice 15 Gold Street",
+    "Cuisine": "Italian",
+    "Neighborhood": "Lower Manhattan, New York, NY",
+    "Address": "15 Gold St, New York, NY 10038, USA",
+    "Latitude": 40.7078815,
+    "Longitude": -74.0071288
+  },
+  {
+    "Restaurant": "Stout NYC Financial District",
+    "Cuisine": "American (Traditional)",
+    "Neighborhood": "Lower Manhattan, New York, NY",
+    "Address": "90 John St, New York, NY 10038, USA",
+    "Latitude": 40.7079836,
+    "Longitude": -74.0064861
+  },
+  {
+    "Restaurant": "Cuna NYC",
+    "Cuisine": "Mexican",
+    "Neighborhood": "East Village, New York, NY",
+    "Address": "25 Cooper Sq, New York, NY 10003, USA",
+    "Latitude": 40.7278896,
+    "Longitude": -73.9907987
+  },
+  {
+    "Restaurant": "Jade Eatery & Lounge",
+    "Cuisine": "Asian Fusion",
+    "Neighborhood": "Forest Hills, New York, NY",
+    "Address": "1 Station Square #2, Forest Hills, NY 11375, USA",
+    "Latitude": 40.7189633,
+    "Longitude": -73.845194
+  },
+  {
+    "Restaurant": "Brass & the Tusk Bar",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Nomad, New York, NY",
+    "Address": "7 E 27th St, New York, NY 10016, USA",
+    "Latitude": 40.7439642,
+    "Longitude": -73.986983
+  },
+  {
+    "Restaurant": "Sei Less",
+    "Cuisine": "Chinese",
+    "Neighborhood": "Garment District, New York, NY",
+    "Address": "156 W 38th St, New York, NY 10018, USA",
+    "Latitude": 40.7532163,
+    "Longitude": -73.9884491
+  },
+  {
+    "Restaurant": "Mark's Off Madison",
+    "Cuisine": "Italian",
+    "Neighborhood": "Nomad, New York, NY",
+    "Address": "41 Madison Ave Ground Level, New York, NY 10010, USA",
+    "Latitude": 40.7425604,
+    "Longitude": -73.9864149
+  },
+  {
+    "Restaurant": "Benjamin Prime",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Murray Hill, New York, NY",
+    "Address": "23 E 40th St, Between Madison &, Park Ave, New York, NY 10016, USA",
+    "Latitude": 40.7514456,
+    "Longitude": -73.9796474
+  },
+  {
+    "Restaurant": "Havana Central",
+    "Cuisine": "Cuban",
+    "Neighborhood": "Times Square/Theatre District, New York, NY",
+    "Address": "151 W 46th St, New York, NY 10036, USA",
+    "Latitude": 40.7583262,
+    "Longitude": -73.984105
+  },
+  {
+    "Restaurant": "Red Hook Lobster Pound",
+    "Cuisine": "Seafood",
+    "Neighborhood": "Red Hook, New York, NY",
+    "Address": "284 Van Brunt St, Brooklyn, NY 11231, USA",
+    "Latitude": 40.6798561,
+    "Longitude": -74.0103683
+  },
+  {
+    "Restaurant": "Le Fleur Rouge",
+    "Cuisine": "Chinese",
+    "Neighborhood": "Park Slope, New York, NY",
+    "Address": "392 5th Ave, Brooklyn, NY 11215, USA",
+    "Latitude": 40.6708357,
+    "Longitude": -73.9851862
+  },
+  {
+    "Restaurant": "Mito - Forest Hills",
+    "Cuisine": "Japanese / Sushi",
+    "Neighborhood": "Forest Hills, New York, NY",
+    "Address": "64-18 108th St, Forest Hills, NY 11375, USA",
+    "Latitude": 40.7323718,
+    "Longitude": -73.8497752
+  },
+  {
+    "Restaurant": "Benoit Restaurant & Wine Bar",
+    "Cuisine": "French",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "60 W 55th St, New York, NY 10019, USA",
+    "Latitude": 40.7624865,
+    "Longitude": -73.9773468
+  },
+  {
+    "Restaurant": "Manhatta",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Lower Manhattan, New York, NY",
+    "Address": "28 Liberty St 60th floor, New York, NY 10005, USA",
+    "Latitude": 40.7079257,
+    "Longitude": -74.0089318
+  },
+  {
+    "Restaurant": "Lore",
+    "Cuisine": "Eclectic",
+    "Neighborhood": "South Slope, New York, NY",
+    "Address": "441 7th Ave, Brooklyn, NY 11215, USA",
+    "Latitude": 40.663082,
+    "Longitude": -73.9844024
+  },
+  {
+    "Restaurant": "Sushi Sen-Nin",
+    "Cuisine": "Japanese / Sushi",
+    "Neighborhood": "Murray Hill, New York, NY",
+    "Address": "30 E 33rd St, New York, NY 10016, USA",
+    "Latitude": 40.7467682,
+    "Longitude": -73.9829632
+  },
+  {
+    "Restaurant": "Indian Table",
+    "Cuisine": "Indian",
+    "Neighborhood": "Cobble Hill, New York, NY",
+    "Address": "234 Court St, Brooklyn, NY 11201, USA",
+    "Latitude": 40.6860356,
+    "Longitude": -73.9944116
+  },
+  {
+    "Restaurant": "Smith & Wollensky",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "797 3rd Ave, New York, NY 10022, USA",
+    "Latitude": 40.75526,
+    "Longitude": -73.97095
+  },
+  {
+    "Restaurant": "Urban Cove Society & Kitchen",
+    "Cuisine": "American (New)",
+    "Neighborhood": "The Seaport, New York, NY",
+    "Address": "33 Peck Slip, New York, NY 10038, USA",
+    "Latitude": 40.7080206,
+    "Longitude": -74.0014468
+  },
+  {
+    "Restaurant": "The Independent",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Times Square/Theatre District, New York, NY",
+    "Address": "147 W 40th St, New York, NY 10018, USA",
+    "Latitude": 40.7547596,
+    "Longitude": -73.987435
+  },
+  {
+    "Restaurant": "HanGawi",
+    "Cuisine": "Korean",
+    "Neighborhood": "Koreatown, New York, NY",
+    "Address": "12 E 32nd St, New York, NY 10016, USA",
+    "Latitude": 40.7466666,
+    "Longitude": -73.9847311
+  },
+  {
+    "Restaurant": "The Flatiron Room - NoMad",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Nomad, New York, NY",
+    "Address": "37 W 26th St, New York, NY 10010, USA",
+    "Latitude": 40.7445519,
+    "Longitude": -73.9904324
+  },
+  {
+    "Restaurant": "Zo\u00ec Mediterranean NoMad",
+    "Cuisine": "Mediterranean",
+    "Neighborhood": "Koreatown, New York, NY",
+    "Address": "19 W 31st St, New York, NY 10001, USA",
+    "Latitude": 40.7472238,
+    "Longitude": -73.9870206
+  },
+  {
+    "Restaurant": "Miriam Upper West Side",
+    "Cuisine": "Mediterranean",
+    "Neighborhood": "Upper West Side, New York, NY",
+    "Address": "300 Amsterdam Ave, New York, NY 10023, USA",
+    "Latitude": 40.7802374,
+    "Longitude": -73.9809789
+  },
+  {
+    "Restaurant": "Park Ave Kitchen by David Burke",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "514 Lexington Ave, New York, NY 10017, USA",
+    "Latitude": 40.7552566,
+    "Longitude": -73.9735617
+  },
+  {
+    "Restaurant": "Junoon",
+    "Cuisine": "Indian",
+    "Neighborhood": "Flatiron District, New York, NY",
+    "Address": "19 W 24th St, New York, NY 10010, USA",
+    "Latitude": 40.743029,
+    "Longitude": -73.990446
+  },
+  {
+    "Restaurant": "Nami Nori - Williamsburg",
+    "Cuisine": "Japanese / Sushi",
+    "Neighborhood": "Williamsburg, New York, NY",
+    "Address": "236 N 12th St, Brooklyn, NY 11211, USA",
+    "Latitude": 40.7190781,
+    "Longitude": -73.9528907
+  },
+  {
+    "Restaurant": "Felice 64",
+    "Cuisine": "Italian",
+    "Neighborhood": "Upper East Side, New York, NY",
+    "Address": "1166 1st Ave, New York, NY 10065, USA",
+    "Latitude": 40.762514,
+    "Longitude": -73.959485
+  },
+  {
+    "Restaurant": "Bar56",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Dumbo, New York, NY",
+    "Address": "53 Water St, Brooklyn, NY 11201, USA",
+    "Latitude": 40.7033899,
+    "Longitude": -73.9923524
+  },
+  {
+    "Restaurant": "The Russian Tea Room",
+    "Cuisine": "Continental",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "150 W 57th St, New York, NY 10019, USA",
+    "Latitude": 40.7649085,
+    "Longitude": -73.9794933
+  },
+  {
+    "Restaurant": "Balade",
+    "Cuisine": "Middle Eastern",
+    "Neighborhood": "East Village, New York, NY",
+    "Address": "208 1st Ave, New York, NY 10009, USA",
+    "Latitude": 40.7302839,
+    "Longitude": -73.9830748
+  },
+  {
+    "Restaurant": "Pastai",
+    "Cuisine": "Italian",
+    "Neighborhood": "Chelsea, New York, NY",
+    "Address": "186 9th Ave, New York, NY 10011, USA",
+    "Latitude": 40.7454058,
+    "Longitude": -74.0018528
+  },
+  {
+    "Restaurant": "Essex",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Lower East Side, New York, NY",
+    "Address": "124 Rivington St, New York, NY 10002, USA",
+    "Latitude": 40.7197875,
+    "Longitude": -73.9870999
+  },
+  {
+    "Restaurant": "Chela",
+    "Cuisine": "Mexican",
+    "Neighborhood": "Park Slope, New York, NY",
+    "Address": "408 5th Ave, Brooklyn, NY 11215, USA",
+    "Latitude": 40.6703228,
+    "Longitude": -73.985704
+  },
+  {
+    "Restaurant": "Pappardella",
+    "Cuisine": "Italian",
+    "Neighborhood": "Upper West Side, New York, NY",
+    "Address": "316 Columbus Ave, New York, NY 10023, USA",
+    "Latitude": 40.7793602,
+    "Longitude": -73.9778048
+  },
+  {
+    "Restaurant": "Central Park Boathouse",
+    "Cuisine": "Continental",
+    "Neighborhood": "Central Park, New York, NY",
+    "Address": "EAST 72ND ST +, Center Dr, New York, NY 10021, USA",
+    "Latitude": 40.769256,
+    "Longitude": -73.9594284
+  },
+  {
+    "Restaurant": "Alta Calidad",
+    "Cuisine": "Mexican",
+    "Neighborhood": "Prospect Heights, New York, NY",
+    "Address": "552 Vanderbilt Ave, Brooklyn, NY 11238, USA",
+    "Latitude": 40.6801241,
+    "Longitude": -73.9681614
+  },
+  {
+    "Restaurant": "Dagon",
+    "Cuisine": "Mediterranean",
+    "Neighborhood": "Upper West Side, New York, NY",
+    "Address": "2454 Broadway, New York, NY 10024, USA",
+    "Latitude": 40.7911514,
+    "Longitude": -73.9739083
+  },
+  {
+    "Restaurant": "The Ribbon\u2014Upper West Side",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Upper West Side, New York, NY",
+    "Address": "20 W 72nd St, New York, NY 10023, USA",
+    "Latitude": 40.776525,
+    "Longitude": -73.9773718
+  },
+  {
+    "Restaurant": "Mokyo",
+    "Cuisine": "Korean",
+    "Neighborhood": "East Village, New York, NY",
+    "Address": "109 St Marks Pl, New York, NY 10009, USA",
+    "Latitude": 40.7272256,
+    "Longitude": -73.9838872
+  },
+  {
+    "Restaurant": "Barbalu Bklyn",
+    "Cuisine": "Italian",
+    "Neighborhood": "Boerum Hill, New York, NY",
+    "Address": "68 Bergen St, Brooklyn, NY 11201, USA",
+    "Latitude": 40.6867438,
+    "Longitude": -73.9910146
+  },
+  {
+    "Restaurant": "Dirty French",
+    "Cuisine": "French",
+    "Neighborhood": "Lower East Side, New York, NY",
+    "Address": "180 Ludlow St, New York, NY 10002, USA",
+    "Latitude": 40.7218543,
+    "Longitude": -73.9871679
+  },
+  {
+    "Restaurant": "Nar Restaurant",
+    "Cuisine": "Mediterranean",
+    "Neighborhood": "Flatiron District, New York, NY",
+    "Address": "34 E 20th St #3, New York, NY 10003, USA",
+    "Latitude": 40.7385358,
+    "Longitude": -73.9887764
+  },
+  {
+    "Restaurant": "Pete's Tavern",
+    "Cuisine": "American (Traditional)",
+    "Neighborhood": "Gramercy, New York, NY",
+    "Address": "129 E 18th St, New York, NY 10003, USA",
+    "Latitude": 40.736528,
+    "Longitude": -73.9866747
+  },
+  {
+    "Restaurant": "1803 NYC",
+    "Cuisine": "Cajun/Creole",
+    "Neighborhood": "Tribeca, New York, NY",
+    "Address": "82 Reade St, New York, NY 10007, USA",
+    "Latitude": 40.7148664,
+    "Longitude": -74.0065159
+  },
+  {
+    "Restaurant": "Tudor City Steakhouse",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "45 Tudor City Pl, New York, NY 10017, USA",
+    "Latitude": 40.7493702,
+    "Longitude": -73.9699861
+  },
+  {
+    "Restaurant": "The Palm - Midtown",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Times Square/Theatre District, New York, NY",
+    "Address": "250 W 50th St, New York, NY 10019, USA",
+    "Latitude": 40.7619382,
+    "Longitude": -73.9857163
+  },
+  {
+    "Restaurant": "Boucherie West Village",
+    "Cuisine": "French",
+    "Neighborhood": "West Village, New York, NY",
+    "Address": "99 7th Ave S, New York, NY 10014, USA",
+    "Latitude": 40.733047,
+    "Longitude": -74.0028772
+  },
+  {
+    "Restaurant": "Il Carino",
+    "Cuisine": "Italian",
+    "Neighborhood": "Upper East Side, New York, NY",
+    "Address": "1710 2nd Ave, New York, NY 10128, USA",
+    "Latitude": 40.7794742,
+    "Longitude": -73.9502189
+  },
+  {
+    "Restaurant": "Kyma Hudson Yards",
+    "Cuisine": "Greek",
+    "Neighborhood": "Hudson Yards, New York, NY",
+    "Address": "445 W 35th St, New York, NY 10001, USA",
+    "Latitude": 40.7551217,
+    "Longitude": -73.9978216
+  },
+  {
+    "Restaurant": "Virgil's Real BBQ - Times Square",
+    "Cuisine": "Barbecue",
+    "Neighborhood": "Times Square/Theatre District, New York, NY",
+    "Address": "152 W 44th St, New York, NY 10036, USA",
+    "Latitude": 40.7567595,
+    "Longitude": -73.9851662
+  },
+  {
+    "Restaurant": "Bar Primi - Bowery",
+    "Cuisine": "Italian",
+    "Neighborhood": "East Village, New York, NY",
+    "Address": "325 Bowery, New York, NY 10003, USA",
+    "Latitude": 40.7257162,
+    "Longitude": -73.9916803
+  },
+  {
+    "Restaurant": "Benny John's Bar and Grill",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "8 E 48th St, New York, NY 10017, USA",
+    "Latitude": 40.7568173,
+    "Longitude": -73.9774474
+  },
+  {
+    "Restaurant": "Frenchman's Dough",
+    "Cuisine": "Italian",
+    "Neighborhood": "The Seaport, New York, NY",
+    "Address": "96 South St, New York, NY 10038, USA",
+    "Latitude": 40.706195,
+    "Longitude": -74.0022691
+  },
+  {
+    "Restaurant": "T. Brasserie",
+    "Cuisine": "French",
+    "Neighborhood": "The Seaport, New York, NY",
+    "Address": "96 South St, New York, NY 10038, USA",
+    "Latitude": 40.706195,
+    "Longitude": -74.0022691
+  },
+  {
+    "Restaurant": "Le Basque",
+    "Cuisine": "French",
+    "Neighborhood": "Union Square, New York, NY",
+    "Address": "15 Union Square W, New York, NY 10003, USA",
+    "Latitude": 40.7358934,
+    "Longitude": -73.9917033
+  },
+  {
+    "Restaurant": "Quality Bistro",
+    "Cuisine": "French",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "120 W 55th St, New York, NY 10019, USA",
+    "Latitude": 40.7631488,
+    "Longitude": -73.9792242
+  },
+  {
+    "Restaurant": "Villa Berulia",
+    "Cuisine": "Italian",
+    "Neighborhood": "Murray Hill, New York, NY",
+    "Address": "107 E 34th St, New York, NY 10016, USA",
+    "Latitude": 40.7469315,
+    "Longitude": -73.9805395
+  },
+  {
+    "Restaurant": "Gran Morsi",
+    "Cuisine": "Italian",
+    "Neighborhood": "Tribeca, New York, NY",
+    "Address": "22 Warren St, New York, NY 10007, USA",
+    "Latitude": 40.7143252,
+    "Longitude": -74.0077796
+  },
+  {
+    "Restaurant": "Catch NYC",
+    "Cuisine": "Seafood",
+    "Neighborhood": "Meatpacking District, New York, NY",
+    "Address": "21 9th Ave, New York, NY 10014, USA",
+    "Latitude": 40.740127,
+    "Longitude": -74.006202
+  },
+  {
+    "Restaurant": "Jazba",
+    "Cuisine": "Indian",
+    "Neighborhood": "East Village, New York, NY",
+    "Address": "207 2nd Ave, New York, NY 10003, USA",
+    "Latitude": 40.7317071,
+    "Longitude": -73.9858725
+  },
+  {
+    "Restaurant": "Bocca Di Bacco\u2014Hell's Kitchen",
+    "Cuisine": "Italian",
+    "Neighborhood": "Hells Kitchen, New York, NY",
+    "Address": "836 9th Ave, New York, NY 10019, USA",
+    "Latitude": 40.7662696,
+    "Longitude": -73.986706
+  },
+  {
+    "Restaurant": "Obao Hell's Kitchen",
+    "Cuisine": "Thai",
+    "Neighborhood": "Hells Kitchen, New York, NY",
+    "Address": "647 9th Ave, New York, NY 10036, USA",
+    "Latitude": 40.7606617,
+    "Longitude": -73.9913386
+  },
+  {
+    "Restaurant": "Pera SoHo",
+    "Cuisine": "Mediterranean",
+    "Neighborhood": "Soho, New York, NY",
+    "Address": "54 Thompson Street, corner of, Broome St, New York, NY 10012, USA",
+    "Latitude": 40.7238441,
+    "Longitude": -74.0033262
+  },
+  {
+    "Restaurant": "Wayward Fare",
+    "Cuisine": "Italian",
+    "Neighborhood": "Prospect Heights, New York, NY",
+    "Address": "554 Vanderbilt Ave, Brooklyn, NY 11238, USA",
+    "Latitude": 40.6800795,
+    "Longitude": -73.9682811
+  },
+  {
+    "Restaurant": "Bond 45",
+    "Cuisine": "Italian",
+    "Neighborhood": "Times Square/Theatre District, New York, NY",
+    "Address": "221 W 46th St, New York, NY 10036, USA",
+    "Latitude": 40.7593741,
+    "Longitude": -73.9861745
+  },
+  {
+    "Restaurant": "Bar Primi - Penn District",
+    "Cuisine": "Italian",
+    "Neighborhood": "Chelsea, New York, NY",
+    "Address": "349 W 33rd St, New York, NY 10001, USA",
+    "Latitude": 40.7524624,
+    "Longitude": -73.9958877
+  },
+  {
+    "Restaurant": "BOTA Supper Club",
+    "Cuisine": "American (New)",
+    "Neighborhood": "St. George, New York, NY",
+    "Address": "402 St Marks Pl, Staten Island, NY 10301, USA",
+    "Latitude": 40.6399365,
+    "Longitude": -74.0777926
+  },
+  {
+    "Restaurant": "Nudibranch",
+    "Cuisine": "Korean",
+    "Neighborhood": "East Village, New York, NY",
+    "Address": "125 1st Ave, New York, NY 10003, USA",
+    "Latitude": 40.7274205,
+    "Longitude": -73.9857285
+  },
+  {
+    "Restaurant": "Burger & Lobster Bryant Park",
+    "Cuisine": "Seafood",
+    "Neighborhood": "Times Square/Theatre District, New York, NY",
+    "Address": "132 W 43rd St, New York, NY 10036, USA",
+    "Latitude": 40.7559517,
+    "Longitude": -73.9851995
+  },
+  {
+    "Restaurant": "Marseille",
+    "Cuisine": "French",
+    "Neighborhood": "Hells Kitchen, New York, NY",
+    "Address": "630 9th Ave, New York, NY 10036, USA",
+    "Latitude": 40.759987,
+    "Longitude": -73.9912338
+  },
+  {
+    "Restaurant": "Hearth",
+    "Cuisine": "Italian",
+    "Neighborhood": "East Village, New York, NY",
+    "Address": "403 E 12th St, New York, NY 10009, USA",
+    "Latitude": 40.7300263,
+    "Longitude": -73.9831883
+  },
+  {
+    "Restaurant": "Dagg Thai",
+    "Cuisine": "Thai",
+    "Neighborhood": "Murray Hill, New York, NY",
+    "Address": "10 E 39th St, New York, NY 10016, USA",
+    "Latitude": 40.751161,
+    "Longitude": -73.981529
+  },
+  {
+    "Restaurant": "La Pecora Bianca NoMad",
+    "Cuisine": "Italian",
+    "Neighborhood": "Nomad, New York, NY",
+    "Address": "1133 Broadway, New York, NY 10010, USA",
+    "Latitude": 40.7436889,
+    "Longitude": -73.989176
+  },
+  {
+    "Restaurant": "Nice Matin",
+    "Cuisine": "French",
+    "Neighborhood": "Upper West Side, New York, NY",
+    "Address": "201 W 79th St, New York, NY 10024, USA",
+    "Latitude": 40.783438,
+    "Longitude": -73.9784915
+  },
+  {
+    "Restaurant": "Trattoria Dell'Arte",
+    "Cuisine": "Italian",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "900 7th Ave, New York, NY 10106, USA",
+    "Latitude": 40.7653677,
+    "Longitude": -73.9803759
+  },
+  {
+    "Restaurant": "Francie",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Williamsburg, New York, NY",
+    "Address": "136 Broadway, Brooklyn, NY 11249, USA",
+    "Latitude": 40.7101876,
+    "Longitude": -73.9640308
+  },
+  {
+    "Restaurant": "Momoya Soho",
+    "Cuisine": "Japanese / Sushi",
+    "Neighborhood": "Nolita, New York, NY",
+    "Address": "47 Prince St, New York, NY 10012, USA",
+    "Latitude": 40.7235132,
+    "Longitude": -73.9958467
+  },
+  {
+    "Restaurant": "Hunt & Fish Club NYC",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Times Square/Theatre District, New York, NY",
+    "Address": "125 W 44th St, New York, NY 10036, USA",
+    "Latitude": 40.756771,
+    "Longitude": -73.9842496
+  },
+  {
+    "Restaurant": "Scarpetta",
+    "Cuisine": "Italian",
+    "Neighborhood": "Nomad, New York, NY",
+    "Address": "88 Madison Ave, New York, NY 10016, USA",
+    "Latitude": 40.7443811,
+    "Longitude": -73.9856359
+  },
+  {
+    "Restaurant": "Rosevale Cocktail Room",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Hells Kitchen, New York, NY",
+    "Address": "305 W 48th St 2nd Floor, New York, NY 10036, USA",
+    "Latitude": 40.76143,
+    "Longitude": -73.9874509
+  },
+  {
+    "Restaurant": "Travelers Poets & Friends",
+    "Cuisine": "Italian",
+    "Neighborhood": "West Village, New York, NY",
+    "Address": "457 6th Ave, New York, NY 10011, USA",
+    "Latitude": 40.735255,
+    "Longitude": -73.998673
+  },
+  {
+    "Restaurant": "Il Mulino Prime | Soho",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Soho, New York, NY",
+    "Address": "331 W Broadway, New York, NY 10013, USA",
+    "Latitude": 40.7221361,
+    "Longitude": -74.0038202
+  },
+  {
+    "Restaurant": "Wabi Nori",
+    "Cuisine": "Japanese / Sushi",
+    "Neighborhood": "Lower East Side, New York, NY",
+    "Address": "115 Essex St, New York, NY 10002, USA",
+    "Latitude": 40.7195897,
+    "Longitude": -73.987964
+  },
+  {
+    "Restaurant": "Heritage Grand Bakery",
+    "Cuisine": "Mediterranean",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "8 W 40th St, New York, NY 10018, USA",
+    "Latitude": 40.7522652,
+    "Longitude": -73.9826166
+  },
+  {
+    "Restaurant": "Vino &... - Eataly NYC Downtown",
+    "Cuisine": "Italian",
+    "Neighborhood": "Lower Manhattan, New York, NY",
+    "Address": "101 Liberty St, New York, NY 10006, USA",
+    "Latitude": 40.7103187,
+    "Longitude": -74.011926
+  },
+  {
+    "Restaurant": "Crave Fishbar - Upper East Side",
+    "Cuisine": "Seafood",
+    "Neighborhood": "Upper East Side, New York, NY",
+    "Address": "1462 2nd Ave, New York, NY 10075, USA",
+    "Latitude": 40.7715742,
+    "Longitude": -73.9560201
+  },
+  {
+    "Restaurant": "The Greenhouse Cafe",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Bay Ridge, New York, NY",
+    "Address": "7717 3rd Ave, Brooklyn, NY 11209, USA",
+    "Latitude": 40.6295393,
+    "Longitude": -74.0283024
+  },
+  {
+    "Restaurant": "Robert",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "2 Columbus Cir, New York, NY 10019, USA",
+    "Latitude": 40.7674065,
+    "Longitude": -73.9819905
+  },
+  {
+    "Restaurant": "Rosemary's West Village",
+    "Cuisine": "Italian",
+    "Neighborhood": "West Village, New York, NY",
+    "Address": "18 Greenwich Ave, New York, NY 10011, USA",
+    "Latitude": 40.7348852,
+    "Longitude": -73.9996717
+  },
+  {
+    "Restaurant": "The Stand",
+    "Cuisine": "Italian",
+    "Neighborhood": "Union Square, New York, NY",
+    "Address": "116 E 16th St, New York, NY 10003, USA",
+    "Latitude": 40.73534,
+    "Longitude": -73.9884797
+  },
+  {
+    "Restaurant": "Schilling",
+    "Cuisine": "Austrian",
+    "Neighborhood": "Lower Manhattan, New York, NY",
+    "Address": "109 Washington St, New York, NY 10006, USA",
+    "Latitude": 40.7085844,
+    "Longitude": -74.0140166
+  },
+  {
+    "Restaurant": "Olio e Pi\u00f9 Bryant Park",
+    "Cuisine": "Italian",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "5 Bryant Pk, New York, NY 10018, USA",
+    "Latitude": 40.7540133,
+    "Longitude": -73.9854801
+  },
+  {
+    "Restaurant": "Rosemary's East",
+    "Cuisine": "Italian",
+    "Neighborhood": "Gramercy, New York, NY",
+    "Address": "350 1st Ave, New York, NY 10010, USA",
+    "Latitude": 40.7350134,
+    "Longitude": -73.9763913
+  },
+  {
+    "Restaurant": "Miriam West Village",
+    "Cuisine": "Mediterranean",
+    "Neighborhood": "West Village, New York, NY",
+    "Address": "140 7th Ave S, New York, NY 10014, USA",
+    "Latitude": 40.734727,
+    "Longitude": -74.0023992
+  },
+  {
+    "Restaurant": "Sagaponack",
+    "Cuisine": "Seafood",
+    "Neighborhood": "Flatiron District, New York, NY",
+    "Address": "4 W 22nd St, New York, NY 10010, USA",
+    "Latitude": 40.7409362,
+    "Longitude": -73.9907851
+  },
+  {
+    "Restaurant": "Zo\u00ec Mediterranean UES",
+    "Cuisine": "Mediterranean",
+    "Neighborhood": "Upper East Side, New York, NY",
+    "Address": "1480 2nd Ave, New York, NY 10075, USA",
+    "Latitude": 40.771994,
+    "Longitude": -73.955612
+  },
+  {
+    "Restaurant": "Parklife",
+    "Cuisine": "Mexican",
+    "Neighborhood": "Gowanus, New York, NY",
+    "Address": "636 Degraw St, Brooklyn, NY 11217, USA",
+    "Latitude": 40.6787242,
+    "Longitude": -73.9832208
+  },
+  {
+    "Restaurant": "Jing Li",
+    "Cuisine": "Chinese",
+    "Neighborhood": "Long Island City, New York, NY",
+    "Address": "27-35 Jackson Ave, Long Island City, NY 11101, USA",
+    "Latitude": 40.7481812,
+    "Longitude": -73.9403027
+  },
+  {
+    "Restaurant": "Casa Brazilian",
+    "Cuisine": "Brazilian",
+    "Neighborhood": "Tribeca, New York, NY",
+    "Address": "157 Duane St, New York, NY 10013, USA",
+    "Latitude": 40.7169073,
+    "Longitude": -74.008589
+  },
+  {
+    "Restaurant": "Wayan",
+    "Cuisine": "Asian Fusion",
+    "Neighborhood": "Nolita, New York, NY",
+    "Address": "20 Spring St, New York, NY 10012, USA",
+    "Latitude": 40.7212544,
+    "Longitude": -73.9951375
+  },
+  {
+    "Restaurant": "Sempre Oggi",
+    "Cuisine": "Italian",
+    "Neighborhood": "Upper West Side, New York, NY",
+    "Address": "164 W 75th St, New York, NY 10023, USA",
+    "Latitude": 40.7802763,
+    "Longitude": -73.9798894
+  },
+  {
+    "Restaurant": "Strip House Downtown",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Greenwich Village, New York, NY",
+    "Address": "13 E 12th St, New York, NY 10003, USA",
+    "Latitude": 40.734316,
+    "Longitude": -73.9935142
+  },
+  {
+    "Restaurant": "Vallata",
+    "Cuisine": "Italian",
+    "Neighborhood": "Gramercy, New York, NY",
+    "Address": "47 E 19th St, New York, NY 10003, USA",
+    "Latitude": 40.7380708,
+    "Longitude": -73.9886063
+  },
+  {
+    "Restaurant": "Dante",
+    "Cuisine": "Italian",
+    "Neighborhood": "Greenwich Village, New York, NY",
+    "Address": "79-81 MacDougal St, New York, NY 10012, USA",
+    "Latitude": 40.728782,
+    "Longitude": -74.0016414
+  },
+  {
+    "Restaurant": "ofCorsica",
+    "Cuisine": "Mediterranean",
+    "Neighborhood": "Chelsea, New York, NY",
+    "Address": "25 11th Ave, New York, NY 10011, USA",
+    "Latitude": 40.742941,
+    "Longitude": -74.0091145
+  },
+  {
+    "Restaurant": "Cafe D'Alsace",
+    "Cuisine": "French",
+    "Neighborhood": "Upper East Side, New York, NY",
+    "Address": "1703 2nd Ave, New York, NY 10128, USA",
+    "Latitude": 40.7794553,
+    "Longitude": -73.9509281
+  },
+  {
+    "Restaurant": "Kyu NYC",
+    "Cuisine": "Asian Fusion",
+    "Neighborhood": "Noho, New York, NY",
+    "Address": "324 Lafayette St, New York, NY 10012, USA",
+    "Latitude": 40.7256063,
+    "Longitude": -73.9952614
+  },
+  {
+    "Restaurant": "Le Jardinier",
+    "Cuisine": "French",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "610 Lexington Ave, New York, NY 10022, USA",
+    "Latitude": 40.7583074,
+    "Longitude": -73.9713868
+  },
+  {
+    "Restaurant": "The Paris Cafe",
+    "Cuisine": "French",
+    "Neighborhood": "The Seaport, New York, NY",
+    "Address": "119 South Street, 119 Peck Slip, New York, NY 10038, USA",
+    "Latitude": 40.7072716,
+    "Longitude": -74.0015945
+  },
+  {
+    "Restaurant": "AperiBar",
+    "Cuisine": "Italian",
+    "Neighborhood": "Times Square/Theatre District, New York, NY",
+    "Address": "LUMA Hotel Times Square, 120 W 41st St, New York, NY 10036, USA",
+    "Latitude": 40.7545818,
+    "Longitude": -73.9857708
+  },
+  {
+    "Restaurant": "Kraam",
+    "Cuisine": "Thai",
+    "Neighborhood": "Nomad, New York, NY",
+    "Address": "254 5th Ave, New York, NY 10001, USA",
+    "Latitude": 40.7449734,
+    "Longitude": -73.9874345
+  },
+  {
+    "Restaurant": "American Cut Tribeca",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Tribeca, New York, NY",
+    "Address": "363 Greenwich St, New York, NY 10013, USA",
+    "Latitude": 40.7190968,
+    "Longitude": -74.0100144
+  },
+  {
+    "Restaurant": "Hard Rock Cafe",
+    "Cuisine": "American (Traditional)",
+    "Neighborhood": "Times Square/Theatre District, New York, NY",
+    "Address": "1501 Broadway, New York, NY 10036, USA",
+    "Latitude": 40.7579747,
+    "Longitude": -73.9855426
+  },
+  {
+    "Restaurant": "Lattanzi Cucina Italiana",
+    "Cuisine": "Italian",
+    "Neighborhood": "Times Square/Theatre District, New York, NY",
+    "Address": "361 W 46th St, New York, NY 10036, USA",
+    "Latitude": 40.760863,
+    "Longitude": -73.9900118
+  },
+  {
+    "Restaurant": "Jupiter",
+    "Cuisine": "Italian",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "Rink Level, 20 W 50th St, New York, NY 10020, USA",
+    "Latitude": 40.7589013,
+    "Longitude": -73.9787731
+  },
+  {
+    "Restaurant": "Patsy's Italian Restaurant",
+    "Cuisine": "Italian",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "236 W 56th St, New York, NY 10019, USA",
+    "Latitude": 40.7655465,
+    "Longitude": -73.9828126
+  },
+  {
+    "Restaurant": "Masseria Dei Vini",
+    "Cuisine": "Italian",
+    "Neighborhood": "Hells Kitchen, New York, NY",
+    "Address": "887 9th Ave, New York, NY 10019, USA",
+    "Latitude": 40.7684477,
+    "Longitude": -73.9857048
+  },
+  {
+    "Restaurant": "Restaurant Nippon",
+    "Cuisine": "Japanese / Sushi",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "155 E 52nd St, New York, NY 10022, USA",
+    "Latitude": 40.7574337,
+    "Longitude": -73.9703764
+  },
+  {
+    "Restaurant": "Cut",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Lower Manhattan, New York, NY",
+    "Address": "99 Church St, New York, NY 10007, USA",
+    "Latitude": 40.7128448,
+    "Longitude": -74.0089923
+  },
+  {
+    "Restaurant": "Altesi Downtown",
+    "Cuisine": "Italian",
+    "Neighborhood": "Soho, New York, NY",
+    "Address": "200 Spring St, New York, NY 10012, USA",
+    "Latitude": 40.7249892,
+    "Longitude": -74.003455
+  },
+  {
+    "Restaurant": "Naks",
+    "Cuisine": "Filipino",
+    "Neighborhood": "New York, NY",
+    "Address": "201 1st Ave, New York, NY 10003, USA",
+    "Latitude": 40.7303138,
+    "Longitude": -73.98363
+  },
+  {
+    "Restaurant": "El\u00e9a",
+    "Cuisine": "Greek",
+    "Neighborhood": "Upper West Side, New York, NY",
+    "Address": "217 W 85th St, New York, NY 10024, USA",
+    "Latitude": 40.7875756,
+    "Longitude": -73.976447
+  },
+  {
+    "Restaurant": "The Long Room",
+    "Cuisine": "Irish",
+    "Neighborhood": "Times Square/Theatre District, New York, NY",
+    "Address": "120 W 44th St, New York, NY 10036, USA",
+    "Latitude": 40.7564769,
+    "Longitude": -73.984303
+  },
+  {
+    "Restaurant": "Del Frisco's Grille",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "50 Rockefeller Plaza, New York, NY 10020, USA",
+    "Latitude": 40.7594905,
+    "Longitude": -73.9784974
+  },
+  {
+    "Restaurant": "Palo Santo",
+    "Cuisine": "Latin American",
+    "Neighborhood": "Park Slope, New York, NY",
+    "Address": "652 Union St, Brooklyn, NY 11215, USA",
+    "Latitude": 40.6767792,
+    "Longitude": -73.9819763
+  },
+  {
+    "Restaurant": "Industry Kitchen",
+    "Cuisine": "American (New)",
+    "Neighborhood": "The Seaport, New York, NY",
+    "Address": "70 South St, New York, NY 10005, USA",
+    "Latitude": 40.7031277,
+    "Longitude": -74.0083191
+  },
+  {
+    "Restaurant": "Sushi Lab Rooftop",
+    "Cuisine": "Japanese / Sushi",
+    "Neighborhood": "Times Square/Theatre District, New York, NY",
+    "Address": "132 W 47th St, New York, NY 10036, USA",
+    "Latitude": 40.7584057,
+    "Longitude": -73.9833062
+  },
+  {
+    "Restaurant": "Empire Steak House - Midtown East",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "151 E 50th St, New York, NY 10022, USA",
+    "Latitude": 40.7561844,
+    "Longitude": -73.9712258
+  },
+  {
+    "Restaurant": "Sicily Osteria",
+    "Cuisine": "Italian",
+    "Neighborhood": "Times Square/Theatre District, New York, NY",
+    "Address": "328-330 W 46th St, New York, NY 10036, USA",
+    "Latitude": 40.7601601,
+    "Longitude": -73.9891863
+  },
+  {
+    "Restaurant": "Nick + Stef's Steakhouse",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "9 Pennsylvania Plaza, New York, NY 10001, USA",
+    "Latitude": 40.7510502,
+    "Longitude": -73.9932346
+  },
+  {
+    "Restaurant": "Bonsaii Tapas & Wine Bar",
+    "Cuisine": "Continental",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "127 E 55th St, New York, NY 10022, USA",
+    "Latitude": 40.7600087,
+    "Longitude": -73.9704053
+  },
+  {
+    "Restaurant": "The Dynamo Room",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Chelsea, New York, NY",
+    "Address": "2 Pennsylvania Plaza, New York, NY 10121, USA",
+    "Latitude": 40.7494331,
+    "Longitude": -73.9914027
+  },
+  {
+    "Restaurant": "Nino's",
+    "Cuisine": "Italian",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "405 E 52nd St, New York, NY 10022, USA",
+    "Latitude": 40.7550069,
+    "Longitude": -73.9646207
+  },
+  {
+    "Restaurant": "Altesi Ristorante",
+    "Cuisine": "Italian",
+    "Neighborhood": "Upper East Side, New York, NY",
+    "Address": "26 E 64th St, New York, NY 10065, USA",
+    "Latitude": 40.7666942,
+    "Longitude": -73.9695861
+  },
+  {
+    "Restaurant": "Morgan's Brooklyn Barbecue",
+    "Cuisine": "Barbecue",
+    "Neighborhood": "Prospect Heights, New York, NY",
+    "Address": "267 Flatbush Ave, Brooklyn, NY 11217, USA",
+    "Latitude": 40.6798958,
+    "Longitude": -73.9740726
+  },
+  {
+    "Restaurant": "French Roast",
+    "Cuisine": "French",
+    "Neighborhood": "Upper West Side, New York, NY",
+    "Address": "2340 Broadway, New York, NY 10024, USA",
+    "Latitude": 40.7876461,
+    "Longitude": -73.9767636
+  },
+  {
+    "Restaurant": "Estiatorio Milos Hudson Yards",
+    "Cuisine": "Seafood",
+    "Neighborhood": "Hudson Yards, New York, NY",
+    "Address": "20 Hudson Yards Fifth Floor, New York, NY 10001, USA",
+    "Latitude": 40.7533936,
+    "Longitude": -74.001055
+  },
+  {
+    "Restaurant": "Harta",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Garment District, New York, NY",
+    "Address": "30 W 39th St, New York, NY 10018, USA",
+    "Latitude": 40.7520653,
+    "Longitude": -73.9838791
+  },
+  {
+    "Restaurant": "Uva Next Door",
+    "Cuisine": "Italian",
+    "Neighborhood": "Upper East Side, New York, NY",
+    "Address": "1484 2nd Ave, New York, NY 10075, USA",
+    "Latitude": 40.7721555,
+    "Longitude": -73.9556516
+  },
+  {
+    "Restaurant": "Nusr-Et - Midtown",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "60 W 53rd St, New York, NY 10019, USA",
+    "Latitude": 40.7612786,
+    "Longitude": -73.9787097
+  },
+  {
+    "Restaurant": "Gui Steakhouse",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Times Square/Theatre District, New York, NY",
+    "Address": "776 8th Ave, New York, NY 10036, USA",
+    "Latitude": 40.7605436,
+    "Longitude": -73.9870459
+  },
+  {
+    "Restaurant": "The Parliament",
+    "Cuisine": "American (Traditional)",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "557 Lexington Ave, New York, NY 10022, USA",
+    "Latitude": 40.756593,
+    "Longitude": -73.971947
+  },
+  {
+    "Restaurant": "Jack & Charlie\u2019s No. 118",
+    "Cuisine": "American (New)",
+    "Neighborhood": "West Village, New York, NY",
+    "Address": "118 Greenwich Ave, New York, NY 10011, USA",
+    "Latitude": 40.7385575,
+    "Longitude": -74.0021182
+  },
+  {
+    "Restaurant": "Aqua Kyoto",
+    "Cuisine": "Japanese / Sushi",
+    "Neighborhood": "Flatiron District, New York, NY",
+    "Address": "20 E 21st St, New York, NY 10010, USA",
+    "Latitude": 40.7396059,
+    "Longitude": -73.9892104
+  },
+  {
+    "Restaurant": "Liebman\u2019s Deli",
+    "Cuisine": "Delicatessen",
+    "Neighborhood": "Riverdale, New York, NY",
+    "Address": "552 W 235th St, Bronx, NY 10463, USA",
+    "Latitude": 40.8854948,
+    "Longitude": -73.9096997
+  },
+  {
+    "Restaurant": "La Pizza & La Pasta",
+    "Cuisine": "Italian",
+    "Neighborhood": "Lower Manhattan, New York, NY",
+    "Address": "101 Liberty St, New York, NY 10006, USA",
+    "Latitude": 40.7103187,
+    "Longitude": -74.011926
+  },
+  {
+    "Restaurant": "Baciccia Pizza e Cucina",
+    "Cuisine": "Italian",
+    "Neighborhood": "Park Slope, New York, NY",
+    "Address": "426A 7th Ave, Brooklyn, NY 11215, USA",
+    "Latitude": 40.6638125,
+    "Longitude": -73.9844534
+  },
+  {
+    "Restaurant": "Brooklyn Chop House - Downtown",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Lower Manhattan, New York, NY",
+    "Address": "150 Nassau St, New York, NY 10038, USA",
+    "Latitude": 40.7115483,
+    "Longitude": -74.0059043
+  },
+  {
+    "Restaurant": "Churrascaria Plataforma Brazilian Steakhouse",
+    "Cuisine": "Brazilian",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "316 W 49th St, New York, NY 10019, USA",
+    "Latitude": 40.7619279,
+    "Longitude": -73.9877249
+  },
+  {
+    "Restaurant": "Zuma",
+    "Cuisine": "Japanese / Sushi",
+    "Neighborhood": "Murray Hill, New York, NY",
+    "Address": "261 Madison Ave, New York, NY 10016, USA",
+    "Latitude": 40.7505033,
+    "Longitude": -73.9806452
+  },
+  {
+    "Restaurant": "The Clocktower",
+    "Cuisine": "British",
+    "Neighborhood": "Flatiron District, New York, NY",
+    "Address": "5 Madison Ave, New York, NY 10010, USA",
+    "Latitude": 40.7412664,
+    "Longitude": -73.9874068
+  },
+  {
+    "Restaurant": "Felice Columbus",
+    "Cuisine": "Italian",
+    "Neighborhood": "Upper West Side, New York, NY",
+    "Address": "240 Columbus Ave, New York, NY 10023, USA",
+    "Latitude": 40.7769784,
+    "Longitude": -73.9793528
+  },
+  {
+    "Restaurant": "The Tuck Room",
+    "Cuisine": "Gastropub",
+    "Neighborhood": "The Seaport, New York, NY",
+    "Address": "11 Fulton St, New York, NY 10038, USA",
+    "Latitude": 40.706706,
+    "Longitude": -74.0032846
+  },
+  {
+    "Restaurant": "Cebu Bar & Bistro",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Bay Ridge, New York, NY",
+    "Address": "8801 3rd Ave, Brooklyn, NY 11209, USA",
+    "Latitude": 40.6218955,
+    "Longitude": -74.0314249
+  },
+  {
+    "Restaurant": "Veerays",
+    "Cuisine": "Indian",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "213 E 45th St, New York, NY 10017, USA",
+    "Latitude": 40.7525585,
+    "Longitude": -73.9722846
+  },
+  {
+    "Restaurant": "Next Door",
+    "Cuisine": "Japanese / Sushi",
+    "Neighborhood": "Noho, New York, NY",
+    "Address": "770 Broadway, New York, NY 10003, USA",
+    "Latitude": 40.7309692,
+    "Longitude": -73.9916844
+  },
+  {
+    "Restaurant": "Little Maven",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Flatiron District, New York, NY",
+    "Address": "30 W 18th St, New York, NY 10011, USA",
+    "Latitude": 40.7390611,
+    "Longitude": -73.9933788
+  },
+  {
+    "Restaurant": "The Gallery",
+    "Cuisine": "Japanese / Sushi",
+    "Neighborhood": "Flatiron District, New York, NY",
+    "Address": "17 W 20th St 4th Floor, New York, NY 10011, USA",
+    "Latitude": 40.7403982,
+    "Longitude": -73.9921624
+  },
+  {
+    "Restaurant": "Takumen",
+    "Cuisine": "Japanese / Sushi",
+    "Neighborhood": "Long Island City, New York, NY",
+    "Address": "5-50 50th Ave, Long Island City, NY 11101, USA",
+    "Latitude": 40.7426643,
+    "Longitude": -73.9547002
+  },
+  {
+    "Restaurant": "Limusina",
+    "Cuisine": "Mexican",
+    "Neighborhood": "Hells Kitchen, New York, NY",
+    "Address": "441 9th Ave, New York, NY 10001, USA",
+    "Latitude": 40.7541648,
+    "Longitude": -73.9964345
+  },
+  {
+    "Restaurant": "Stone Park Cafe",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Park Slope, New York, NY",
+    "Address": "324 5th Ave, Brooklyn, NY 11215, USA",
+    "Latitude": 40.6729864,
+    "Longitude": -73.9833557
+  },
+  {
+    "Restaurant": "Vin Sur Vingt - E. 51st St.",
+    "Cuisine": "French",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "230 E 51st St, New York, NY 10022, USA",
+    "Latitude": 40.7556979,
+    "Longitude": -73.9691596
+  },
+  {
+    "Restaurant": "Miriam Upper East Side",
+    "Cuisine": "Mediterranean",
+    "Neighborhood": "Upper East Side, New York, NY",
+    "Address": "973 Lexington Ave, New York, NY 10021, USA",
+    "Latitude": 40.7693115,
+    "Longitude": -73.9626262
+  },
+  {
+    "Restaurant": "El Coco - Hell's Kitchen",
+    "Cuisine": "Mexican",
+    "Neighborhood": "Hells Kitchen, New York, NY",
+    "Address": "828 9th Ave, New York, NY 10019, USA",
+    "Latitude": 40.766136,
+    "Longitude": -73.9867939
+  },
+  {
+    "Restaurant": "Twenty-Sevens",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "870 7th Ave, New York, NY 10019, USA",
+    "Latitude": 40.7644049,
+    "Longitude": -73.9810836
+  },
+  {
+    "Restaurant": "Miss Lily's 7A",
+    "Cuisine": "Caribbean",
+    "Neighborhood": "East Village, New York, NY",
+    "Address": "109 Avenue A, New York, NY 10009, USA",
+    "Latitude": 40.7260534,
+    "Longitude": -73.9838523
+  },
+  {
+    "Restaurant": "Anassa Taverna - Manhattan",
+    "Cuisine": "Greek",
+    "Neighborhood": "Upper East Side, New York, NY",
+    "Address": "200 E 60th St, New York, NY 10022, USA",
+    "Latitude": 40.7619358,
+    "Longitude": -73.9659031
+  },
+  {
+    "Restaurant": "La Baraka",
+    "Cuisine": "French",
+    "Neighborhood": "Little Neck, New York, NY",
+    "Address": "255-09 Northern Blvd, Little Neck, NY 11362, USA",
+    "Latitude": 40.77233,
+    "Longitude": -73.734397
+  },
+  {
+    "Restaurant": "The Dolar Shop Hot Pot",
+    "Cuisine": "Chinese",
+    "Neighborhood": "East Village, New York, NY",
+    "Address": "55 3rd Ave, New York, NY 10003, USA",
+    "Latitude": 40.7310965,
+    "Longitude": -73.9885079
+  },
+  {
+    "Restaurant": "La Pizza & La Pasta",
+    "Cuisine": "Italian",
+    "Neighborhood": "Flatiron District, New York, NY",
+    "Address": "200 5th Ave, New York, NY 10010, USA",
+    "Latitude": 40.7419668,
+    "Longitude": -73.9895296
+  },
+  {
+    "Restaurant": "Maggie's Place",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "21 E 47th St, New York, NY 10017, USA",
+    "Latitude": 40.7562972,
+    "Longitude": -73.9771145
+  },
+  {
+    "Restaurant": "The Dining Room at Gramercy Tavern",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Gramercy, New York, NY",
+    "Address": "42 E 20th St, New York, NY 10003, USA",
+    "Latitude": 40.7384635,
+    "Longitude": -73.9885105
+  },
+  {
+    "Restaurant": "Dear Strangers",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Greenwich Village, New York, NY",
+    "Address": "147 W 4th St, New York, NY 10012, USA",
+    "Latitude": 40.731602,
+    "Longitude": -74.000376
+  },
+  {
+    "Restaurant": "Isabelle's Osteria",
+    "Cuisine": "Italian",
+    "Neighborhood": "Gramercy, New York, NY",
+    "Address": "245 Park Ave S, New York, NY 10003, USA",
+    "Latitude": 40.737976,
+    "Longitude": -73.9875872
+  },
+  {
+    "Restaurant": "San Sabino",
+    "Cuisine": "Italian",
+    "Neighborhood": "West Village, New York, NY",
+    "Address": "113 Greenwich Ave, New York, NY 10014, USA",
+    "Latitude": 40.7380199,
+    "Longitude": -74.0021622
+  },
+  {
+    "Restaurant": "So & So's",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Hells Kitchen, New York, NY",
+    "Address": "302 W 52nd St, New York, NY 10019, USA",
+    "Latitude": 40.7635668,
+    "Longitude": -73.9854912
+  },
+  {
+    "Restaurant": "Ginger Ristoranti",
+    "Cuisine": "Italian",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "123 W 49th St, New York, NY 10020, USA",
+    "Latitude": 40.7601622,
+    "Longitude": -73.9823707
+  },
+  {
+    "Restaurant": "The Quimby",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Jamaica, New York, NY",
+    "Address": "135-25 142nd St, South Ozone Park, NY 11436, USA",
+    "Latitude": 40.6673965,
+    "Longitude": -73.796598
+  },
+  {
+    "Restaurant": "The Splendid",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "16 E 52nd St, New York, NY 10022, USA",
+    "Latitude": 40.7592238,
+    "Longitude": -73.9754545
+  },
+  {
+    "Restaurant": "Roey's",
+    "Cuisine": "Italian",
+    "Neighborhood": "West Village, New York, NY",
+    "Address": "1 Perry St, New York, NY 10014, USA",
+    "Latitude": 40.7359857,
+    "Longitude": -74.0009892
+  },
+  {
+    "Restaurant": "Psaraki",
+    "Cuisine": "Greek",
+    "Neighborhood": "Williamsburg, New York, NY",
+    "Address": "420 Kent Ave, Brooklyn, NY 11249, USA",
+    "Latitude": 40.7096855,
+    "Longitude": -73.9691358
+  },
+  {
+    "Restaurant": "Anton\u2019s",
+    "Cuisine": "American (New)",
+    "Neighborhood": "West Village, New York, NY",
+    "Address": "570 Hudson St, New York, NY 10014, USA",
+    "Latitude": 40.7356767,
+    "Longitude": -74.0057727
+  },
+  {
+    "Restaurant": "Torch & Crown Brewing Company",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Hudson Square, New York, NY",
+    "Address": "12 Vandam St, New York, NY 10013, USA",
+    "Latitude": 40.7262149,
+    "Longitude": -74.004292
+  },
+  {
+    "Restaurant": "Palermo Argentinian Bistro - NYC",
+    "Cuisine": "Argentinian",
+    "Neighborhood": "Times Square/Theatre District, New York, NY",
+    "Address": "373 W 46th St, New York, NY 10036, USA",
+    "Latitude": 40.760954,
+    "Longitude": -73.990343
+  },
+  {
+    "Restaurant": "DomoDomo NYC",
+    "Cuisine": "Japanese / Sushi",
+    "Neighborhood": "Greenwich Village, New York, NY",
+    "Address": "140 W Houston St, New York, NY 10012, USA",
+    "Latitude": 40.7280131,
+    "Longitude": -74.0016178
+  },
+  {
+    "Restaurant": "Lincoln Ristorante",
+    "Cuisine": "Italian",
+    "Neighborhood": "Upper West Side, New York, NY",
+    "Address": "142 W 65th St, New York, NY 10023, USA",
+    "Latitude": 40.7733701,
+    "Longitude": -73.983728
+  },
+  {
+    "Restaurant": "Ilili Restaurant",
+    "Cuisine": "Mediterranean",
+    "Neighborhood": "Nomad, New York, NY",
+    "Address": "236 5th Ave, New York, NY 10001, USA",
+    "Latitude": 40.7444147,
+    "Longitude": -73.9879195
+  },
+  {
+    "Restaurant": "Jacques Brasserie",
+    "Cuisine": "French",
+    "Neighborhood": "Upper East Side, New York, NY",
+    "Address": "206 E 85th St, New York, NY 10028, USA",
+    "Latitude": 40.7778319,
+    "Longitude": -73.9541443
+  },
+  {
+    "Restaurant": "Lorenzo's Restaurant, Bar & Cabaret",
+    "Cuisine": "Italian",
+    "Neighborhood": "Bloomfield, New York, NY",
+    "Address": "1100 South Ave, Staten Island, NY 10314, USA",
+    "Latitude": 40.6148998,
+    "Longitude": -74.1767494
+  },
+  {
+    "Restaurant": "Yakiniku Futago",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Flatiron District, New York, NY",
+    "Address": "37 W 17th St, New York, NY 10011, USA",
+    "Latitude": 40.7388959,
+    "Longitude": -73.9940906
+  },
+  {
+    "Restaurant": "Masseria East",
+    "Cuisine": "Italian",
+    "Neighborhood": "Upper East Side, New York, NY",
+    "Address": "1404 3rd Ave, New York, NY 10075, USA",
+    "Latitude": 40.7749099,
+    "Longitude": -73.9571627
+  },
+  {
+    "Restaurant": "Momoya - Upper West Side",
+    "Cuisine": "Japanese / Sushi",
+    "Neighborhood": "Upper West Side, New York, NY",
+    "Address": "427 Amsterdam Ave, New York, NY 10024, USA",
+    "Latitude": 40.7840028,
+    "Longitude": -73.9773355
+  },
+  {
+    "Restaurant": "Soogil",
+    "Cuisine": "Korean",
+    "Neighborhood": "East Village, New York, NY",
+    "Address": "108 E 4th St, New York, NY 10003, USA",
+    "Latitude": 40.7255384,
+    "Longitude": -73.988357
+  },
+  {
+    "Restaurant": "Chito Gvrito NYC",
+    "Cuisine": "Eastern European",
+    "Neighborhood": "Gramercy, New York, NY",
+    "Address": "173 3rd Ave, New York, NY 10003, USA",
+    "Latitude": 40.7347628,
+    "Longitude": -73.9858605
+  },
+  {
+    "Restaurant": "Nougatine at Jean-Georges",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Upper West Side, New York, NY",
+    "Address": "1 Central Prk W, New York, NY 10023, USA",
+    "Latitude": 40.7690255,
+    "Longitude": -73.9816255
+  },
+  {
+    "Restaurant": "Pink Taco",
+    "Cuisine": "Mexican",
+    "Neighborhood": "Times Square/Theatre District, New York, NY",
+    "Address": "7 Times Sq, New York, NY 10036, USA",
+    "Latitude": 40.755583,
+    "Longitude": -73.9868327
+  },
+  {
+    "Restaurant": "Sofrito on the Hudson",
+    "Cuisine": "Puerto Rican",
+    "Neighborhood": "Hamilton Heights, New York, NY",
+    "Address": "679 Riverside Dr, New York, NY 10031, USA",
+    "Latitude": 40.8248783,
+    "Longitude": -73.9572898
+  },
+  {
+    "Restaurant": "Marsanne",
+    "Cuisine": "Mediterranean",
+    "Neighborhood": "Chelsea, New York, NY",
+    "Address": "233 8th Ave, New York, NY 10011, USA",
+    "Latitude": 40.7446196,
+    "Longitude": -73.9992322
+  },
+  {
+    "Restaurant": "Baci & Abbracci",
+    "Cuisine": "Italian",
+    "Neighborhood": "Williamsburg, New York, NY",
+    "Address": "204 Grand St, Brooklyn, NY 11211, USA",
+    "Latitude": 40.713973,
+    "Longitude": -73.960411
+  },
+  {
+    "Restaurant": "Treadwell Park - Downtown",
+    "Cuisine": "American (Traditional)",
+    "Neighborhood": "Battery Park City, New York, NY",
+    "Address": "301 S End Ave, New York, NY 10280, USA",
+    "Latitude": 40.7103436,
+    "Longitude": -74.016542
+  },
+  {
+    "Restaurant": "Maiella",
+    "Cuisine": "Italian",
+    "Neighborhood": "Long Island City, New York, NY",
+    "Address": "46-10 Center Blvd, Long Island City, NY 11109, USA",
+    "Latitude": 40.7473062,
+    "Longitude": -73.9570081
+  },
+  {
+    "Restaurant": "DiWine",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Astoria, New York, NY",
+    "Address": "41-15 31st Ave, Astoria, NY 11103, USA",
+    "Latitude": 40.7608158,
+    "Longitude": -73.9156375
+  },
+  {
+    "Restaurant": "Boucherie Union Square",
+    "Cuisine": "French",
+    "Neighborhood": "Gramercy, New York, NY",
+    "Address": "225 Park Ave S, New York, NY 10003, USA",
+    "Latitude": 40.7371095,
+    "Longitude": -73.9875967
+  },
+  {
+    "Restaurant": "Benjamin Steakhouse",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "Inside The Dylan Hotel, 52 E 41st St, New York, NY 10017, USA",
+    "Latitude": 40.7516345,
+    "Longitude": -73.9790926
+  },
+  {
+    "Restaurant": "Il Buco Alimentari & Vineria",
+    "Cuisine": "Italian",
+    "Neighborhood": "Noho, New York, NY",
+    "Address": "53 Great Jones St, New York, NY 10012, USA",
+    "Latitude": 40.7264217,
+    "Longitude": -73.992587
+  },
+  {
+    "Restaurant": "'ino",
+    "Cuisine": "Italian",
+    "Neighborhood": "Flatiron District, New York, NY",
+    "Address": "31 E 20th St, New York, NY 10003, USA",
+    "Latitude": 40.7389849,
+    "Longitude": -73.9889528
+  },
+  {
+    "Restaurant": "Marlow Bistro",
+    "Cuisine": "Mediterranean",
+    "Neighborhood": "Upper West Side, New York, NY",
+    "Address": "1018 Amsterdam Ave, New York, NY 10025, USA",
+    "Latitude": 40.802973,
+    "Longitude": -73.9642863
+  },
+  {
+    "Restaurant": "Ayza",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Koreatown, New York, NY",
+    "Address": "11 W 31st St, New York, NY 10001, USA",
+    "Latitude": 40.7471122,
+    "Longitude": -73.9869043
+  },
+  {
+    "Restaurant": "Redeye Grill",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "890 7th Ave, New York, NY 10019, USA",
+    "Latitude": 40.7651937,
+    "Longitude": -73.9806837
+  },
+  {
+    "Restaurant": "Lillie's Victorian\u2014Union Square",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Union Square, New York, NY",
+    "Address": "13 E 17th St, New York, NY 10003, USA",
+    "Latitude": 40.7376827,
+    "Longitude": -73.9911213
+  },
+  {
+    "Restaurant": "Acadia",
+    "Cuisine": "Mediterranean",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "101 W 57th St, New York, NY 10019, USA",
+    "Latitude": 40.7646408,
+    "Longitude": -73.9772407
+  },
+  {
+    "Restaurant": "The Uptown Garrison",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Washington Heights, New York, NY",
+    "Address": "821 W 181st St, New York, NY 10033, USA",
+    "Latitude": 40.851348,
+    "Longitude": -73.939392
+  },
+  {
+    "Restaurant": "La Sirene",
+    "Cuisine": "French",
+    "Neighborhood": "Soho, New York, NY",
+    "Address": "558 Broome St, New York, NY 10013, USA",
+    "Latitude": 40.7245388,
+    "Longitude": -74.0057075
+  },
+  {
+    "Restaurant": "Gallaghers Steakhouse",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Times Square/Theatre District, New York, NY",
+    "Address": "228 W 52nd St, New York, NY 10019, USA",
+    "Latitude": 40.7628299,
+    "Longitude": -73.9838826
+  },
+  {
+    "Restaurant": "Stout NYC Penn Station",
+    "Cuisine": "American (Traditional)",
+    "Neighborhood": "Herald Square, New York, NY",
+    "Address": "215 W 35th St, New York, NY 10001, USA",
+    "Latitude": 40.751876,
+    "Longitude": -73.991085
+  },
+  {
+    "Restaurant": "Copinette",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "891 1st Ave, New York, NY 10022, USA",
+    "Latitude": 40.7541516,
+    "Longitude": -73.9662617
+  },
+  {
+    "Restaurant": "La Pecora Bianca Midtown",
+    "Cuisine": "Italian",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "950 2nd Ave, New York, NY 10022, USA",
+    "Latitude": 40.755001,
+    "Longitude": -73.9682432
+  },
+  {
+    "Restaurant": "Calle D\u00e3o - Bryant Park",
+    "Cuisine": "Asian Fusion",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "38 W 39th St, New York, NY 10018, USA",
+    "Latitude": 40.7521634,
+    "Longitude": -73.9842196
+  },
+  {
+    "Restaurant": "Planet Hollywood New York",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Times Square/Theatre District, New York, NY",
+    "Address": "136 W 42nd St, New York, NY 10036, USA",
+    "Latitude": 40.7553294,
+    "Longitude": -73.9857901
+  },
+  {
+    "Restaurant": "Kru",
+    "Cuisine": "Thai",
+    "Neighborhood": "Greenpoint, New York, NY",
+    "Address": "190 N 14th St, Brooklyn, NY 11249, USA",
+    "Latitude": 40.7228016,
+    "Longitude": -73.9557975
+  },
+  {
+    "Restaurant": "J\u2019s On The Bay",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Rosebank, New York, NY",
+    "Address": "1189 Bay St, Staten Island, NY 10305, USA",
+    "Latitude": 40.6143729,
+    "Longitude": -74.0661089
+  },
+  {
+    "Restaurant": "The Flatiron Room - Murray Hill",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Murray Hill, New York, NY",
+    "Address": "9 E 37th St, New York, NY 10016, USA",
+    "Latitude": 40.7501775,
+    "Longitude": -73.9821594
+  },
+  {
+    "Restaurant": "Fushimi - Times Square",
+    "Cuisine": "Japanese / Sushi",
+    "Neighborhood": "Hells Kitchen, New York, NY",
+    "Address": "311 W 43rd St, New York, NY 10036, USA",
+    "Latitude": 40.7584564,
+    "Longitude": -73.9900329
+  },
+  {
+    "Restaurant": "Temple Court",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Lower Manhattan, New York, NY",
+    "Address": "5 Beekman St, New York, NY 10038, USA",
+    "Latitude": 40.7112585,
+    "Longitude": -74.0066214
+  },
+  {
+    "Restaurant": "Celeste",
+    "Cuisine": "Italian",
+    "Neighborhood": "Upper West Side, New York, NY",
+    "Address": "502 Amsterdam Ave, New York, NY 10024, USA",
+    "Latitude": 40.7866992,
+    "Longitude": -73.9760929
+  },
+  {
+    "Restaurant": "Clara",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Upper West Side, New York, NY",
+    "Address": "170 Central Prk W, New York, NY 10024, USA",
+    "Latitude": 40.7792476,
+    "Longitude": -73.9742792
+  },
+  {
+    "Restaurant": "The Bronx Beer Hall",
+    "Cuisine": "Pizza",
+    "Neighborhood": "Belmont, New York, NY",
+    "Address": "2344 Arthur Ave, Bronx, NY 10458, USA",
+    "Latitude": 40.8541746,
+    "Longitude": -73.8881983
+  },
+  {
+    "Restaurant": "Victor's Cafe",
+    "Cuisine": "Cuban",
+    "Neighborhood": "Times Square/Theatre District, New York, NY",
+    "Address": "236 W 52nd St, New York, NY 10019, USA",
+    "Latitude": 40.7628851,
+    "Longitude": -73.9841351
+  },
+  {
+    "Restaurant": "Osteria by Primo",
+    "Cuisine": "Italian",
+    "Neighborhood": "Todt Hill, New York, NY",
+    "Address": "1282 Richmond Rd, Staten Island, NY 10304, USA",
+    "Latitude": 40.5961236,
+    "Longitude": -74.0949433
+  },
+  {
+    "Restaurant": "House of the Red Pearl",
+    "Cuisine": "Chinese",
+    "Neighborhood": "The Seaport, New York, NY",
+    "Address": "96 South St, New York, NY 10038, USA",
+    "Latitude": 40.706195,
+    "Longitude": -74.0022691
+  },
+  {
+    "Restaurant": "Philippe by Philippe Chow Downtown",
+    "Cuisine": "Chinese",
+    "Neighborhood": "Chelsea, New York, NY",
+    "Address": "355 W 16th St, New York, NY 10011, USA",
+    "Latitude": 40.7423311,
+    "Longitude": -74.0034791
+  },
+  {
+    "Restaurant": "San Carlo",
+    "Cuisine": "Italian",
+    "Neighborhood": "Soho, New York, NY",
+    "Address": "90 Thompson St, New York, NY 10012, USA",
+    "Latitude": 40.725135,
+    "Longitude": -74.002087
+  },
+  {
+    "Restaurant": "Stella 34 Trattoria",
+    "Cuisine": "Italian",
+    "Neighborhood": "Herald Square, New York, NY",
+    "Address": "151 W 34th St., New York, NY 10001, USA",
+    "Latitude": 40.7508631,
+    "Longitude": -73.9890634
+  },
+  {
+    "Restaurant": "Alice",
+    "Cuisine": "Italian",
+    "Neighborhood": "West Village, New York, NY",
+    "Address": "126 W 13th St, New York, NY 10011, USA",
+    "Latitude": 40.7370176,
+    "Longitude": -73.9986949
+  },
+  {
+    "Restaurant": "Archer & Goat",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Harlem, New York, NY",
+    "Address": "187 Malcolm X Blvd, New York, NY 10026, USA",
+    "Latitude": 40.8043502,
+    "Longitude": -73.9484157
+  },
+  {
+    "Restaurant": "Rivercrest",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Astoria, New York, NY",
+    "Address": "33-15 Ditmars Blvd, Astoria, NY 11105, USA",
+    "Latitude": 40.7751809,
+    "Longitude": -73.9089997
+  },
+  {
+    "Restaurant": "Grotta Azzurra",
+    "Cuisine": "Italian",
+    "Neighborhood": "Little Italy, New York, NY",
+    "Address": "177 Mulberry St, New York, NY 10013, USA",
+    "Latitude": 40.7203092,
+    "Longitude": -73.9970243
+  },
+  {
+    "Restaurant": "Suprema Provisions",
+    "Cuisine": "Italian",
+    "Neighborhood": "West Village, New York, NY",
+    "Address": "305 Bleecker St, New York, NY 10014, USA",
+    "Latitude": 40.7326906,
+    "Longitude": -74.0036439
+  },
+  {
+    "Restaurant": "Tamarind Tribeca",
+    "Cuisine": "Indian",
+    "Neighborhood": "Tribeca, New York, NY",
+    "Address": "99 Hudson St, New York, NY 10013, USA",
+    "Latitude": 40.7190883,
+    "Longitude": -74.0089129
+  },
+  {
+    "Restaurant": "Henry's End",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Brooklyn Heights, New York, NY",
+    "Address": "72 Henry St, Brooklyn, NY 11201, USA",
+    "Latitude": 40.6987184,
+    "Longitude": -73.9926307
+  },
+  {
+    "Restaurant": "Amity Hall Uptown",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Upper West Side, New York, NY",
+    "Address": "982 Amsterdam Ave, New York, NY 10025, USA",
+    "Latitude": 40.8022031,
+    "Longitude": -73.9647008
+  },
+  {
+    "Restaurant": "Lafayette",
+    "Cuisine": "French",
+    "Neighborhood": "Noho, New York, NY",
+    "Address": "380 Lafayette St, New York, NY 10003, USA",
+    "Latitude": 40.7277113,
+    "Longitude": -73.9936315
+  },
+  {
+    "Restaurant": "Tommy Bahama Restaurant\u2013Bar\u2013Store",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "551 5th Ave Suite 101, New York, NY 10176, USA",
+    "Latitude": 40.7555234,
+    "Longitude": -73.9791968
+  },
+  {
+    "Restaurant": "Atlantis Prime",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Herald Square, New York, NY",
+    "Address": "38 W 36th St., New York, NY 10018, USA",
+    "Latitude": 40.7502737,
+    "Longitude": -73.9854762
+  },
+  {
+    "Restaurant": "Carne Mare",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "The Seaport, New York, NY",
+    "Address": "89 South St, New York, NY 10038, USA",
+    "Latitude": 40.7056435,
+    "Longitude": -74.0016663
+  },
+  {
+    "Restaurant": "Mamo",
+    "Cuisine": "Italian",
+    "Neighborhood": "Soho, New York, NY",
+    "Address": "323 W Broadway, New York, NY 10013, USA",
+    "Latitude": 40.7218737,
+    "Longitude": -74.0038382
+  },
+  {
+    "Restaurant": "Serra",
+    "Cuisine": "Italian",
+    "Neighborhood": "Flatiron District, New York, NY",
+    "Address": "200 5th Ave, New York, NY 10010, USA",
+    "Latitude": 40.7419668,
+    "Longitude": -73.9895296
+  },
+  {
+    "Restaurant": "Gabriel's Bar & Restaurant",
+    "Cuisine": "Italian",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "40 Central Park S, New York, NY 10019, USA",
+    "Latitude": 40.7650765,
+    "Longitude": -73.975516
+  },
+  {
+    "Restaurant": "Grand Brasserie",
+    "Cuisine": "French",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "89 E 42nd St Vanderbilt Hall, New York, NY 10017, USA",
+    "Latitude": 40.7526966,
+    "Longitude": -73.9778491
+  },
+  {
+    "Restaurant": "Da Andrea - Greenwich Village",
+    "Cuisine": "Italian",
+    "Neighborhood": "Greenwich Village, New York, NY",
+    "Address": "35 W 13th St, New York, NY 10011, USA",
+    "Latitude": 40.7362477,
+    "Longitude": -73.9958123
+  },
+  {
+    "Restaurant": "The Ivy Room",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Nomad, New York, NY",
+    "Address": "420 Park Ave S P2, New York, NY 10016, USA",
+    "Latitude": 40.7439194,
+    "Longitude": -73.9841967
+  },
+  {
+    "Restaurant": "A La Turka",
+    "Cuisine": "Turkish",
+    "Neighborhood": "Upper East Side, New York, NY",
+    "Address": "1417 2nd Ave, New York, NY 10021, USA",
+    "Latitude": 40.7701243,
+    "Longitude": -73.9577261
+  },
+  {
+    "Restaurant": "The Otter",
+    "Cuisine": "Seafood",
+    "Neighborhood": "Soho, New York, NY",
+    "Address": "58 Thompson St, New York, NY 10012, USA",
+    "Latitude": 40.723944,
+    "Longitude": -74.0033097
+  },
+  {
+    "Restaurant": "Tonchin Brooklyn",
+    "Cuisine": "Japanese / Sushi",
+    "Neighborhood": "Williamsburg, New York, NY",
+    "Address": "109 N 3rd St, Brooklyn, NY 11249, USA",
+    "Latitude": 40.7167624,
+    "Longitude": -73.9616996
+  },
+  {
+    "Restaurant": "Union Square Cafe",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Gramercy, New York, NY",
+    "Address": "101 E 19th St, New York, NY 10003, USA",
+    "Latitude": 40.7377702,
+    "Longitude": -73.9878767
+  },
+  {
+    "Restaurant": "Chelsea Ristorante",
+    "Cuisine": "Italian",
+    "Neighborhood": "Chelsea, New York, NY",
+    "Address": "108 8th Ave, New York, NY 10011, USA",
+    "Latitude": 40.7406515,
+    "Longitude": -74.0015913
+  },
+  {
+    "Restaurant": "Arte Cafe",
+    "Cuisine": "Italian",
+    "Neighborhood": "Upper West Side, New York, NY",
+    "Address": "106 W 73rd St, New York, NY 10023, USA",
+    "Latitude": 40.7781026,
+    "Longitude": -73.9788477
+  },
+  {
+    "Restaurant": "STK Midtown",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "1114 6th Ave, New York, NY 10036, USA",
+    "Latitude": 40.754882,
+    "Longitude": -73.9826021
+  },
+  {
+    "Restaurant": "The Queensboro",
+    "Cuisine": "American (Traditional)",
+    "Neighborhood": "Jackson Heights, New York, NY",
+    "Address": "80-02 Northern Blvd, Jackson Heights, NY 11372, USA",
+    "Latitude": 40.755152,
+    "Longitude": -73.8869912
+  },
+  {
+    "Restaurant": "French Louie",
+    "Cuisine": "French",
+    "Neighborhood": "Boerum Hill, New York, NY",
+    "Address": "320 Atlantic Ave, Brooklyn, NY 11201, USA",
+    "Latitude": 40.6880066,
+    "Longitude": -73.9882177
+  },
+  {
+    "Restaurant": "Molyvos",
+    "Cuisine": "Greek",
+    "Neighborhood": "Hells Kitchen, New York, NY",
+    "Address": "402 West 43rd Street New York (Btwn 9th &, 10th Ave, New York, NY 10036, USA",
+    "Latitude": 40.7592716,
+    "Longitude": -73.9927551
+  },
+  {
+    "Restaurant": "The Noortwyck",
+    "Cuisine": "American (New)",
+    "Neighborhood": "West Village, New York, NY",
+    "Address": "289 Bleecker St, New York, NY 10014, USA",
+    "Latitude": 40.7321832,
+    "Longitude": -74.0033181
+  },
+  {
+    "Restaurant": "Dos Caminos Lexington",
+    "Cuisine": "Mexican",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "480 Lexington Ave, New York, NY 10167, USA",
+    "Latitude": 40.754543,
+    "Longitude": -73.9741687
+  },
+  {
+    "Restaurant": "Del Frisco's Grille - Brookfield Place",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Battery Park City, New York, NY",
+    "Address": "250 Vesey St, New York, NY 10281, USA",
+    "Latitude": 40.7134456,
+    "Longitude": -74.0151854
+  },
+  {
+    "Restaurant": "Dowling\u2019s at The Carlyle",
+    "Cuisine": "American (Traditional)",
+    "Neighborhood": "Upper East Side, New York, NY",
+    "Address": "35 E 76th St, New York, NY 10021, USA",
+    "Latitude": 40.7744489,
+    "Longitude": -73.9630744
+  },
+  {
+    "Restaurant": "The Bar Room at The Modern",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "9 W 53rd St, New York, NY 10019, USA",
+    "Latitude": 40.7611122,
+    "Longitude": -73.9767127
+  },
+  {
+    "Restaurant": "Naro",
+    "Cuisine": "Korean",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "Rink Level CO, 610 5th Ave #04, New York, NY 10020, USA",
+    "Latitude": 40.7583251,
+    "Longitude": -73.9780787
+  },
+  {
+    "Restaurant": "Le District Bar & Bistro",
+    "Cuisine": "French",
+    "Neighborhood": "Battery Park City, New York, NY",
+    "Address": "225 Liberty St, New York, NY 10281, USA",
+    "Latitude": 40.711535,
+    "Longitude": -74.015252
+  },
+  {
+    "Restaurant": "Masaaki",
+    "Cuisine": "Japanese / Sushi",
+    "Neighborhood": "Bayside, New York, NY",
+    "Address": "214-16 41st Ave, Bayside, NY 11361, USA",
+    "Latitude": 40.7635589,
+    "Longitude": -73.7702368
+  },
+  {
+    "Restaurant": "Cafe Zaffri",
+    "Cuisine": "Middle Eastern",
+    "Neighborhood": "Union Square, New York, NY",
+    "Address": "16 E 16th St, New York, NY 10003, USA",
+    "Latitude": 40.7357722,
+    "Longitude": -73.9889383
+  },
+  {
+    "Restaurant": "Blvd Bistro",
+    "Cuisine": "Soul Food / Southern",
+    "Neighborhood": "Harlem, New York, NY",
+    "Address": "2149 Frederick Douglass Blvd, New York, NY 10026, USA",
+    "Latitude": 40.8043549,
+    "Longitude": -73.9557757
+  },
+  {
+    "Restaurant": "Zou Zou's",
+    "Cuisine": "Mediterranean",
+    "Neighborhood": "Hudson Yards, New York, NY",
+    "Address": "385 9th Ave Suite 85, New York, NY 10001, USA",
+    "Latitude": 40.7522251,
+    "Longitude": -73.9981157
+  },
+  {
+    "Restaurant": "Peggy's",
+    "Cuisine": "Eclectic",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "1043 2nd Ave, New York, NY 10022, USA",
+    "Latitude": 40.7579643,
+    "Longitude": -73.9666083
+  },
+  {
+    "Restaurant": "Fogo de Ch\u00e3o Brazilian Steakhouse - World Trade Center",
+    "Cuisine": "Brazilian",
+    "Neighborhood": "Lower Manhattan, New York, NY",
+    "Address": "40 Cortlandt Wy Tower 3, Space 1340, New York, NY 10007, USA",
+    "Latitude": 40.7107626,
+    "Longitude": -74.0118135
+  },
+  {
+    "Restaurant": "Telio",
+    "Cuisine": "Greek",
+    "Neighborhood": "Upper West Side, New York, NY",
+    "Address": "2672 Broadway, New York, NY 10025, USA",
+    "Latitude": 40.7982096,
+    "Longitude": -73.9688654
+  },
+  {
+    "Restaurant": "Noodle Bar - Uptown",
+    "Cuisine": "Asian Fusion",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "10 Columbus Cir, New York, NY 10019, USA",
+    "Latitude": 40.7685526,
+    "Longitude": -73.9831866
+  },
+  {
+    "Restaurant": "Allora Fifth Ave",
+    "Cuisine": "Italian",
+    "Neighborhood": "Nomad, New York, NY",
+    "Address": "292 5th Ave, New York, NY 10001, USA",
+    "Latitude": 40.7463935,
+    "Longitude": -73.9864578
+  },
+  {
+    "Restaurant": "La Pecora Bianca Upper East Side",
+    "Cuisine": "Italian",
+    "Neighborhood": "Upper East Side, New York, NY",
+    "Address": "1562 2nd Ave, New York, NY 10028, USA",
+    "Latitude": 40.7746825,
+    "Longitude": -73.9538686
+  },
+  {
+    "Restaurant": "Il Mulino New York | Madison",
+    "Cuisine": "Italian",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "58 E 56th St, New York, NY 10022, USA",
+    "Latitude": 40.7612168,
+    "Longitude": -73.9724411
+  },
+  {
+    "Restaurant": "Paris Bar",
+    "Cuisine": "French",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "120 W 57th St, New York, NY 10019, USA",
+    "Latitude": 40.7645242,
+    "Longitude": -73.9784575
+  },
+  {
+    "Restaurant": "BKK New York",
+    "Cuisine": "Thai",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "238 W 56th St, New York, NY 10019, USA",
+    "Latitude": 40.7656694,
+    "Longitude": -73.9829226
+  },
+  {
+    "Restaurant": "Dhamaka",
+    "Cuisine": "Indian",
+    "Neighborhood": "Lower East Side, New York, NY",
+    "Address": "119 Delancey St, New York, NY 10002, USA",
+    "Latitude": 40.7180658,
+    "Longitude": -73.9881304
+  },
+  {
+    "Restaurant": "Anassa Taverna - Astoria",
+    "Cuisine": "Greek",
+    "Neighborhood": "Astoria, New York, NY",
+    "Address": "28-10 Astoria Blvd, Astoria, NY 11102, USA",
+    "Latitude": 40.7705679,
+    "Longitude": -73.9206612
+  },
+  {
+    "Restaurant": "ilili - Midtown",
+    "Cuisine": "Mediterranean",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "157 E 53rd St, New York, NY 10022, USA",
+    "Latitude": 40.7580782,
+    "Longitude": -73.9700009
+  },
+  {
+    "Restaurant": "Le Tout Va Bien",
+    "Cuisine": "French",
+    "Neighborhood": "Hells Kitchen, New York, NY",
+    "Address": "311 W 51st St, New York, NY 10019, USA",
+    "Latitude": 40.7635398,
+    "Longitude": -73.9861188
+  },
+  {
+    "Restaurant": "Crazy Pizza",
+    "Cuisine": "Italian",
+    "Neighborhood": "Soho, New York, NY",
+    "Address": "218 Lafayette St, New York, NY 10012, USA",
+    "Latitude": 40.7220042,
+    "Longitude": -73.9977977
+  },
+  {
+    "Restaurant": "Murano Ristorante",
+    "Cuisine": "Italian",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "120 E 56th St, New York, NY 10022, USA",
+    "Latitude": 40.7604629,
+    "Longitude": -73.9706347
+  },
+  {
+    "Restaurant": "Am\u00e9lie - Upper West Side",
+    "Cuisine": "French",
+    "Neighborhood": "Upper West Side, New York, NY",
+    "Address": "566 Amsterdam Ave, New York, NY 10024, USA",
+    "Latitude": 40.7887508,
+    "Longitude": -73.9746244
+  },
+  {
+    "Restaurant": "Izakaya Futago",
+    "Cuisine": "Japanese / Sushi",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "211 E 43rd St, New York, NY 10017, USA",
+    "Latitude": 40.7512148,
+    "Longitude": -73.9731396
+  },
+  {
+    "Restaurant": "Cha Cha Tang",
+    "Cuisine": "Chinese",
+    "Neighborhood": "West Village, New York, NY",
+    "Address": "257 6th Ave, New York, NY 10014, USA",
+    "Latitude": 40.7290259,
+    "Longitude": -74.002807
+  },
+  {
+    "Restaurant": "Brasserie Cognac - Midtown East",
+    "Cuisine": "French",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "517 Lexington Ave, New York, NY 10017, USA",
+    "Latitude": 40.7553,
+    "Longitude": -73.9728788
+  },
+  {
+    "Restaurant": "Ponty Bistro",
+    "Cuisine": "French",
+    "Neighborhood": "Harlem, New York, NY",
+    "Address": "2375 Adam Clayton Powell Jr Blvd, New York, NY 10030, USA",
+    "Latitude": 40.8175945,
+    "Longitude": -73.9415383
+  },
+  {
+    "Restaurant": "Wan Waan",
+    "Cuisine": "Thai",
+    "Neighborhood": "Chelsea, New York, NY",
+    "Address": "200 8th Ave, New York, NY 10011, USA",
+    "Latitude": 40.7434814,
+    "Longitude": -73.9995027
+  },
+  {
+    "Restaurant": "Smith & Mills - Rockefeller Center",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "Rink Level, 30 Rockefeller Plaza, New York, NY 10112, USA",
+    "Latitude": 40.7593755,
+    "Longitude": -73.9799726
+  },
+  {
+    "Restaurant": "Levant on Smith",
+    "Cuisine": "French",
+    "Neighborhood": "Carroll Gardens, New York, NY",
+    "Address": "223 Smith St, Brooklyn, NY 11201, USA",
+    "Latitude": 40.6842168,
+    "Longitude": -73.9919312
+  },
+  {
+    "Restaurant": "Docks Off 5th",
+    "Cuisine": "Seafood",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "25 W 51st St #6939, New York, NY 10019, USA",
+    "Latitude": 40.7599981,
+    "Longitude": -73.9781592
+  },
+  {
+    "Restaurant": "Romeo's Italian Restaurant",
+    "Cuisine": "Italian",
+    "Neighborhood": "Jackson Heights, New York, NY",
+    "Address": "74-27 37th Ave, Jackson Heights, NY 11372, USA",
+    "Latitude": 40.749183,
+    "Longitude": -73.8910294
+  },
+  {
+    "Restaurant": "Renaissance Harlem",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Harlem, New York, NY",
+    "Address": "2245 Adam Clayton Powell Jr Blvd, New York, NY 10030, USA",
+    "Latitude": 40.8133579,
+    "Longitude": -73.9447305
+  },
+  {
+    "Restaurant": "La Pecora Bianca Bryant Park",
+    "Cuisine": "Italian",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "20 W 40th St, New York, NY 10018, USA",
+    "Latitude": 40.7525176,
+    "Longitude": -73.9831529
+  },
+  {
+    "Restaurant": "Burrito Bar",
+    "Cuisine": "Mexican",
+    "Neighborhood": "West Brighton, New York, NY",
+    "Address": "585 Forest Ave, Staten Island, NY 10310, USA",
+    "Latitude": 40.6303627,
+    "Longitude": -74.1088297
+  },
+  {
+    "Restaurant": "Red Room Bar",
+    "Cuisine": "French",
+    "Neighborhood": "Lower Manhattan, New York, NY",
+    "Address": "1 Wall St, New York, NY 10005, USA",
+    "Latitude": 40.7073963,
+    "Longitude": -74.0118341
+  },
+  {
+    "Restaurant": "Motek",
+    "Cuisine": "Mediterranean",
+    "Neighborhood": "Flatiron District, New York, NY",
+    "Address": "928 Broadway, New York, NY 10010, USA",
+    "Latitude": 40.7399349,
+    "Longitude": -73.9895399
+  },
+  {
+    "Restaurant": "Markette",
+    "Cuisine": "Caribbean",
+    "Neighborhood": "Chelsea, New York, NY",
+    "Address": "326 7th Ave, New York, NY 10001, USA",
+    "Latitude": 40.7475892,
+    "Longitude": -73.9934928
+  },
+  {
+    "Restaurant": "Arthur & Sons - Murray Hill",
+    "Cuisine": "Italian",
+    "Neighborhood": "Murray Hill, New York, NY",
+    "Address": "145 E 39th St, New York, NY 10016, USA",
+    "Latitude": 40.7493602,
+    "Longitude": -73.9765358
+  },
+  {
+    "Restaurant": "Tinos",
+    "Cuisine": "Greek",
+    "Neighborhood": "Upper East Side, New York, NY",
+    "Address": "1748 1st Ave, New York, NY 10128, USA",
+    "Latitude": 40.7796558,
+    "Longitude": -73.9469671
+  },
+  {
+    "Restaurant": "UNGLO Thai Restaurant & Bar",
+    "Cuisine": "Thai",
+    "Neighborhood": "Upper West Side, New York, NY",
+    "Address": "35 W 64th St, New York, NY 10023, USA",
+    "Latitude": 40.7720044,
+    "Longitude": -73.9811058
+  },
+  {
+    "Restaurant": "Pepolino",
+    "Cuisine": "Italian",
+    "Neighborhood": "Tribeca, New York, NY",
+    "Address": "281 W Broadway, New York, NY 10013, USA",
+    "Latitude": 40.7207621,
+    "Longitude": -74.0048877
+  },
+  {
+    "Restaurant": "Casa Louie",
+    "Cuisine": "Italian",
+    "Neighborhood": "Hudson Yards, New York, NY",
+    "Address": "455 W 37th St, New York, NY 10018, USA",
+    "Latitude": 40.7565507,
+    "Longitude": -73.9970518
+  },
+  {
+    "Restaurant": "Barlume",
+    "Cuisine": "Mediterranean",
+    "Neighborhood": "Flatiron District, New York, NY",
+    "Address": "900 Broadway, New York, NY 10003, USA",
+    "Latitude": 40.7388575,
+    "Longitude": -73.9895466
+  },
+  {
+    "Restaurant": "Saggio",
+    "Cuisine": "Italian",
+    "Neighborhood": "Washington Heights, New York, NY",
+    "Address": "827 W 181st St, New York, NY 10033, USA",
+    "Latitude": 40.851419,
+    "Longitude": -73.9395154
+  },
+  {
+    "Restaurant": "Mama Mezze",
+    "Cuisine": "Mediterranean",
+    "Neighborhood": "Nomad, New York, NY",
+    "Address": "1123 Broadway, New York, NY 10010, USA",
+    "Latitude": 40.7433949,
+    "Longitude": -73.9894419
+  },
+  {
+    "Restaurant": "Don Cheech",
+    "Cuisine": "Italian",
+    "Neighborhood": "Rosebank, New York, NY",
+    "Address": "1271 Bay St, Staten Island, NY 10305, USA",
+    "Latitude": 40.6125112,
+    "Longitude": -74.0647488
+  },
+  {
+    "Restaurant": "Ralph's Sports Bar",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Dongan Hills, New York, NY",
+    "Address": "1571 Richmond Rd, Staten Island, NY 10304, USA",
+    "Latitude": 40.5912423,
+    "Longitude": -74.1012703
+  },
+  {
+    "Restaurant": "Eataly NYC SoHo",
+    "Cuisine": "Italian",
+    "Neighborhood": "Soho, New York, NY",
+    "Address": "200 Lafayette St, New York, NY 10012, USA",
+    "Latitude": 40.7213773,
+    "Longitude": -73.9983436
+  },
+  {
+    "Restaurant": "Pico De Gallo Bar & Kitchen",
+    "Cuisine": "Mexican",
+    "Neighborhood": "Upper West Side, New York, NY",
+    "Address": "768 Amsterdam Ave, New York, NY 10025, USA",
+    "Latitude": 40.7951789,
+    "Longitude": -73.9698463
+  },
+  {
+    "Restaurant": "Drai's Supper Club",
+    "Cuisine": "French",
+    "Neighborhood": "West Village, New York, NY",
+    "Address": "244 W 14th St, New York, NY 10011, USA",
+    "Latitude": 40.739237,
+    "Longitude": -74.0019412
+  },
+  {
+    "Restaurant": "Aquarelle",
+    "Cuisine": "Seafood",
+    "Neighborhood": "East Village, New York, NY",
+    "Address": "47 Avenue B, New York, NY 10009, USA",
+    "Latitude": 40.7229625,
+    "Longitude": -73.9825102
+  },
+  {
+    "Restaurant": "City Vineyard",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Tribeca, New York, NY",
+    "Address": "233 West St, New York, NY 10013, USA",
+    "Latitude": 40.7213003,
+    "Longitude": -74.0128712
+  },
+  {
+    "Restaurant": "Rosie O'Grady's",
+    "Cuisine": "American (Traditional)",
+    "Neighborhood": "Times Square/Theatre District, New York, NY",
+    "Address": "148 W 51st St, New York, NY 10019, USA",
+    "Latitude": 40.7613288,
+    "Longitude": -73.9822088
+  },
+  {
+    "Restaurant": "Bar Bianchi",
+    "Cuisine": "Italian",
+    "Neighborhood": "East Village, New York, NY",
+    "Address": "5 Avenue A, New York, NY 10009, USA",
+    "Latitude": 40.7225634,
+    "Longitude": -73.9864693
+  },
+  {
+    "Restaurant": "Naxos",
+    "Cuisine": "Greek",
+    "Neighborhood": "Williamsburg, New York, NY",
+    "Address": "470 Driggs Ave, Brooklyn, NY 11211, USA",
+    "Latitude": 40.719007,
+    "Longitude": -73.9547011
+  },
+  {
+    "Restaurant": "El Bistr\u00f3 Tropical",
+    "Cuisine": "Colombian",
+    "Neighborhood": "Nomad, New York, NY",
+    "Address": "1227 Broadway Located inside the iconic Virgin Hotels, on the 4th floor, New York, NY 10001, USA",
+    "Latitude": 40.7466063,
+    "Longitude": -73.988791
+  },
+  {
+    "Restaurant": "SaiTong Thai",
+    "Cuisine": "Thai",
+    "Neighborhood": "Times Square/Theatre District, New York, NY",
+    "Address": "244 W 48th St, New York, NY 10036, USA",
+    "Latitude": 40.7606777,
+    "Longitude": -73.9865615
+  },
+  {
+    "Restaurant": "Pylos",
+    "Cuisine": "Greek",
+    "Neighborhood": "East Village, New York, NY",
+    "Address": "128 E 7th St, New York, NY 10009, USA",
+    "Latitude": 40.7260604,
+    "Longitude": -73.9841737
+  },
+  {
+    "Restaurant": "8282",
+    "Cuisine": "Korean",
+    "Neighborhood": "Lower East Side, New York, NY",
+    "Address": "84 Stanton St, New York, NY 10002, USA",
+    "Latitude": 40.7216708,
+    "Longitude": -73.9887463
+  },
+  {
+    "Restaurant": "Le Monde",
+    "Cuisine": "French",
+    "Neighborhood": "Morningside Heights, New York, NY",
+    "Address": "2885 Broadway, New York, NY 10025, USA",
+    "Latitude": 40.8058863,
+    "Longitude": -73.9658847
+  },
+  {
+    "Restaurant": "Fogo de Ch\u00e3o Brazilian Steakhouse - Brooklyn",
+    "Cuisine": "Brazilian",
+    "Neighborhood": "Downtown Brooklyn, New York, NY",
+    "Address": "445 Albee Square W, Brooklyn, NY 11201, USA",
+    "Latitude": 40.6907135,
+    "Longitude": -73.983204
+  },
+  {
+    "Restaurant": "Bleu Fin",
+    "Cuisine": "Seafood",
+    "Neighborhood": "Bushwick, New York, NY",
+    "Address": "1487 Broadway, Brooklyn, NY 11221, USA",
+    "Latitude": 40.6874039,
+    "Longitude": -73.918055
+  },
+  {
+    "Restaurant": "Stretch Pizza - Park Ave",
+    "Cuisine": "Pizza",
+    "Neighborhood": "Flatiron District, New York, NY",
+    "Address": "331 Park Ave S, New York, NY 10010, USA",
+    "Latitude": 40.7410114,
+    "Longitude": -73.9855574
+  },
+  {
+    "Restaurant": "Sea by Jungsik",
+    "Cuisine": "Thai",
+    "Neighborhood": "Chelsea, New York, NY",
+    "Address": "151 W 30th St, New York, NY 10001, USA",
+    "Latitude": 40.7483603,
+    "Longitude": -73.9918674
+  },
+  {
+    "Restaurant": "Reverie",
+    "Cuisine": "Vegan",
+    "Neighborhood": "New York, NY",
+    "Address": "135 Metropolitan Ave, Brooklyn, NY 11249, USA",
+    "Latitude": 40.7163366,
+    "Longitude": -73.9621928
+  },
+  {
+    "Restaurant": "Anassa Taverna - Downtown",
+    "Cuisine": "Greek",
+    "Neighborhood": "Battery Park City, New York, NY",
+    "Address": "104 N End Ave, New York, NY 10282, USA",
+    "Latitude": 40.7148544,
+    "Longitude": -74.0144968
+  },
+  {
+    "Restaurant": "La Pecora Bianca SoHo",
+    "Cuisine": "Italian",
+    "Neighborhood": "Soho, New York, NY",
+    "Address": "54 Prince St, New York, NY 10012, USA",
+    "Latitude": 40.723489,
+    "Longitude": -73.9963116
+  },
+  {
+    "Restaurant": "Quality Italian",
+    "Cuisine": "Italian",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "57 W 57th St, New York, NY 10019, USA",
+    "Latitude": 40.7644381,
+    "Longitude": -73.9766479
+  },
+  {
+    "Restaurant": "Code Red Restaurant & Lounge",
+    "Cuisine": "Caribbean",
+    "Neighborhood": "Laconia, New York, NY",
+    "Address": "1320 E Gun Hill Rd, Bronx, NY 10469, USA",
+    "Latitude": 40.8711902,
+    "Longitude": -73.8481136
+  },
+  {
+    "Restaurant": "Gitano NYC",
+    "Cuisine": "Mexican",
+    "Neighborhood": "The Seaport, New York, NY",
+    "Address": "89 South St, New York, NY 10038, USA",
+    "Latitude": 40.7056435,
+    "Longitude": -74.0016663
+  },
+  {
+    "Restaurant": "American Brass",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Long Island City, New York, NY",
+    "Address": "2-01 50th Ave, Long Island City, NY 11101, USA",
+    "Latitude": 40.7439708,
+    "Longitude": -73.958493
+  },
+  {
+    "Restaurant": "Pascalou",
+    "Cuisine": "French",
+    "Neighborhood": "Upper East Side, New York, NY",
+    "Address": "1308 Madison Ave, New York, NY 10128, USA",
+    "Latitude": 40.7851222,
+    "Longitude": -73.9558722
+  },
+  {
+    "Restaurant": "Leon\u2019s",
+    "Cuisine": "Italian",
+    "Neighborhood": "Greenwich Village, New York, NY",
+    "Address": "817 Broadway, New York, NY 10003, USA",
+    "Latitude": 40.7331293,
+    "Longitude": -73.9913302
+  },
+  {
+    "Restaurant": "Barrio BX",
+    "Cuisine": "Puerto Rican",
+    "Neighborhood": "Unionport, New York, NY",
+    "Address": "1247 Castle Hill Ave, Bronx, NY 10462, USA",
+    "Latitude": 40.8330953,
+    "Longitude": -73.8516697
+  },
+  {
+    "Restaurant": "Cath\u00e9drale",
+    "Cuisine": "French",
+    "Neighborhood": "East Village, New York, NY",
+    "Address": "112 E 11th St, New York, NY 10003, USA",
+    "Latitude": 40.7315059,
+    "Longitude": -73.9895444
+  },
+  {
+    "Restaurant": "F&J Pine",
+    "Cuisine": "Italian",
+    "Neighborhood": "Morris Park, New York, NY",
+    "Address": "1913 Bronxdale Ave, Bronx, NY 10462, USA",
+    "Latitude": 40.8487297,
+    "Longitude": -73.8622596
+  },
+  {
+    "Restaurant": "Mito - Fort Greene",
+    "Cuisine": "Japanese / Sushi",
+    "Neighborhood": "Fort Greene, New York, NY",
+    "Address": "280 Ashland Pl, Brooklyn, NY 11217, USA",
+    "Latitude": 40.6870406,
+    "Longitude": -73.9785036
+  },
+  {
+    "Restaurant": "Poppy",
+    "Cuisine": "American (New)",
+    "Neighborhood": "East Village, New York, NY",
+    "Address": "505 E 12th St, New York, NY 10009, USA",
+    "Latitude": 40.7290594,
+    "Longitude": -73.9809167
+  },
+  {
+    "Restaurant": "Surfish Bistro",
+    "Cuisine": "Peruvian",
+    "Neighborhood": "Gowanus, New York, NY",
+    "Address": "550 3rd Ave, Brooklyn, NY 11215, USA",
+    "Latitude": 40.6686344,
+    "Longitude": -73.9936545
+  },
+  {
+    "Restaurant": "Sistina",
+    "Cuisine": "Italian",
+    "Neighborhood": "Upper East Side, New York, NY",
+    "Address": "24 E 81st St, New York, NY 10028, USA",
+    "Latitude": 40.7775913,
+    "Longitude": -73.9616751
+  },
+  {
+    "Restaurant": "Yefsi Estiatorio",
+    "Cuisine": "Greek",
+    "Neighborhood": "Upper East Side, New York, NY",
+    "Address": "1481 York Ave, New York, NY 10075, USA",
+    "Latitude": 40.7710462,
+    "Longitude": -73.9510258
+  },
+  {
+    "Restaurant": "Mykonian House",
+    "Cuisine": "Greek",
+    "Neighborhood": "Upper East Side, New York, NY",
+    "Address": "25 E 83rd St, New York, NY 10028, USA",
+    "Latitude": 40.7791699,
+    "Longitude": -73.9602975
+  },
+  {
+    "Restaurant": "Aqua Roma",
+    "Cuisine": "Italian",
+    "Neighborhood": "Flatiron District, New York, NY",
+    "Address": "902 Broadway, New York, NY 10010, USA",
+    "Latitude": 40.7394362,
+    "Longitude": -73.9895524
+  },
+  {
+    "Restaurant": "ABC Kitchens DUMBO",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Dumbo, New York, NY",
+    "Address": "55 Water St, Brooklyn, NY 11201, USA",
+    "Latitude": 40.7033616,
+    "Longitude": -73.9913829
+  },
+  {
+    "Restaurant": "Smyth Tavern",
+    "Cuisine": "American (Traditional)",
+    "Neighborhood": "Tribeca, New York, NY",
+    "Address": "85 W Broadway, New York, NY 10007, USA",
+    "Latitude": 40.715339,
+    "Longitude": -74.009177
+  },
+  {
+    "Restaurant": "Benihana",
+    "Cuisine": "Japanese / Sushi",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "47 W 56th St, New York, NY 10019, USA",
+    "Latitude": 40.7634413,
+    "Longitude": -73.9767248
+  },
+  {
+    "Restaurant": "Saigon Social",
+    "Cuisine": "Vietnamese",
+    "Neighborhood": "Lower East Side, New York, NY",
+    "Address": "172 Orchard St, New York, NY 10002, USA",
+    "Latitude": 40.7214626,
+    "Longitude": -73.9882485
+  },
+  {
+    "Restaurant": "Little Fino",
+    "Cuisine": "Italian",
+    "Neighborhood": "Williamsburg, New York, NY",
+    "Address": "111 N 12th St, Brooklyn, NY 11249, USA",
+    "Latitude": 40.7228468,
+    "Longitude": -73.9578689
+  },
+  {
+    "Restaurant": "La T\u00eate d\u2019Or",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Flatiron District, New York, NY",
+    "Address": "318 Park Ave S, New York, NY 10010, USA",
+    "Latitude": 40.7406632,
+    "Longitude": -73.9863353
+  },
+  {
+    "Restaurant": "Ishq",
+    "Cuisine": "Indian",
+    "Neighborhood": "East Village, New York, NY",
+    "Address": "202 Avenue A Frnt A, New York, NY 10009, USA",
+    "Latitude": 40.7293646,
+    "Longitude": -73.9808662
+  },
+  {
+    "Restaurant": "Caravaggio",
+    "Cuisine": "Italian",
+    "Neighborhood": "Upper East Side, New York, NY",
+    "Address": "23 E 74th St, New York, NY 10021, USA",
+    "Latitude": 40.7733964,
+    "Longitude": -73.9647449
+  },
+  {
+    "Restaurant": "iNine Bistro",
+    "Cuisine": "Eclectic",
+    "Neighborhood": "Mott Haven, New York, NY",
+    "Address": "53 Bruckner Blvd, Bronx, NY 10454, USA",
+    "Latitude": 40.8067625,
+    "Longitude": -73.9266885
+  },
+  {
+    "Restaurant": "Quality Meats",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Midtown West, New York, NY",
+    "Address": "57 W 58th St, New York, NY 10019, USA",
+    "Latitude": 40.7649855,
+    "Longitude": -73.9763245
+  },
+  {
+    "Restaurant": "Bar Chuzo",
+    "Cuisine": "Latin American",
+    "Neighborhood": "Bay Ridge, New York, NY",
+    "Address": "9324 3rd Ave, Brooklyn, NY 11209, USA",
+    "Latitude": 40.618124,
+    "Longitude": -74.0335037
+  },
+  {
+    "Restaurant": "Am\u00e9lie - West Village",
+    "Cuisine": "French",
+    "Neighborhood": "Greenwich Village, New York, NY",
+    "Address": "22 W 8th St, New York, NY 10011, USA",
+    "Latitude": 40.7326534,
+    "Longitude": -73.9976785
+  },
+  {
+    "Restaurant": "Liman Restaurant",
+    "Cuisine": "Mediterranean",
+    "Neighborhood": "Coney Island, New York, NY",
+    "Address": "825 Surf Ave 2nd Floor, Brooklyn, NY 11224, USA",
+    "Latitude": 40.5755665,
+    "Longitude": -73.9773292
+  },
+  {
+    "Restaurant": "Catch n' Chop",
+    "Cuisine": "Steakhouse",
+    "Neighborhood": "Upper East Side, New York, NY",
+    "Address": "1600 3rd Ave, New York, NY 10128, USA",
+    "Latitude": 40.7813704,
+    "Longitude": -73.9524453
+  },
+  {
+    "Restaurant": "Fogo de Ch\u00e3o Brazilian Steakhouse - Elmhurst",
+    "Cuisine": "Brazilian",
+    "Neighborhood": "Elmhurst, New York, NY",
+    "Address": "92-50 59th Ave, Elmhurst, NY 11373, USA",
+    "Latitude": 40.7344085,
+    "Longitude": -73.8674693
+  },
+  {
+    "Restaurant": "Amaranth",
+    "Cuisine": "Mediterranean",
+    "Neighborhood": "Upper East Side, New York, NY",
+    "Address": "21 E 62nd St GROUND FLOOR, New York, NY 10065, USA",
+    "Latitude": 40.7657854,
+    "Longitude": -73.9703126
+  },
+  {
+    "Restaurant": "Masalawala & Sons",
+    "Cuisine": "Indian",
+    "Neighborhood": "Park Slope, New York, NY",
+    "Address": "365 5th Ave, Brooklyn, NY 11215, USA",
+    "Latitude": 40.6712529,
+    "Longitude": -73.9842828
+  },
+  {
+    "Restaurant": "Jasmine's Caribbean Cuisine",
+    "Cuisine": "Caribbean",
+    "Neighborhood": "Times Square/Theatre District, New York, NY",
+    "Address": "371 W 46th St, New York, NY 10036, USA",
+    "Latitude": 40.7609624,
+    "Longitude": -73.9902686
+  },
+  {
+    "Restaurant": "Sojourn Social",
+    "Cuisine": "American (New)",
+    "Neighborhood": "Upper East Side, New York, NY",
+    "Address": "1708 2nd Ave, New York, NY 10128, USA",
+    "Latitude": 40.7794134,
+    "Longitude": -73.9502659
+  },
+  {
+    "Restaurant": "Maison Passerelle",
+    "Cuisine": "French",
+    "Neighborhood": "Lower Manhattan, New York, NY",
+    "Address": "1 Wall St, New York, NY 10005, USA",
+    "Latitude": 40.7073963,
+    "Longitude": -74.0118341
+  },
+  {
+    "Restaurant": "Fresco by Scotto",
+    "Cuisine": "Italian",
+    "Neighborhood": "Midtown East, New York, NY",
+    "Address": "34 E 52nd St, New York, NY 10022, USA",
+    "Latitude": 40.7588164,
+    "Longitude": -73.9745136
+  },
+  {
+    "Restaurant": "PB Brasserie Steak House",
+    "Cuisine": "French",
+    "Neighborhood": "Harlem, New York, NY",
+    "Address": "Pb brasserie steak house, 60 W 125th St, New York, NY 10027, USA",
+    "Latitude": 40.8071744,
+    "Longitude": -73.9444886
+  },
+  {
+    "Restaurant": "Bar Mercer",
+    "Cuisine": "Gastropub",
+    "Neighborhood": "Soho, New York, NY",
+    "Address": "25 W Houston St, New York, NY 10012, USA",
+    "Latitude": 40.7256997,
+    "Longitude": -73.9979978
+  },
+  {
+    "Restaurant": "The Mermaid Inn - Upper West Side",
+    "Cuisine": "Seafood",
+    "Neighborhood": "Upper West Side, New York, NY",
+    "Address": "335 Columbus Ave, New York, NY 10023, USA",
+    "Latitude": 40.7798699,
+    "Longitude": -73.9768058
+  },
+  {
+    "Restaurant": "Korali Estiatorio",
+    "Cuisine": "Greek",
+    "Neighborhood": "Upper East Side, New York, NY",
+    "Address": "1662 3rd Ave, New York, NY 10128, USA",
+    "Latitude": 40.783492,
+    "Longitude": -73.950977
+  },
+  {
+    "Restaurant": "Rialto Ristorante",
+    "Cuisine": "Italian",
+    "Neighborhood": "Astoria, New York, NY",
+    "Address": "28-11 Astoria Blvd, Astoria, NY 11102, USA",
+    "Latitude": 40.7708378,
+    "Longitude": -73.9203251
+  },
+  {
+    "Restaurant": "Boni & Mott",
+    "Cuisine": "Mediterranean",
+    "Neighborhood": "Nolita, New York, NY",
+    "Address": "238 Mott St, New York, NY 10012, USA",
+    "Latitude": 40.7226793,
+    "Longitude": -73.9949382
+  },
+  {
+    "Restaurant": "La Pecora Bianca Upper West Side",
+    "Cuisine": "Italian",
+    "Neighborhood": "Upper West Side, New York, NY",
+    "Address": "359 Columbus Ave, New York, NY 10024, USA",
+    "Latitude": 40.7804753,
+    "Longitude": -73.9763467
+  },
+  {
+    "Restaurant": "Margaux by La Sir\u00e8ne",
+    "Cuisine": "French",
+    "Neighborhood": "Murray Hill, New York, NY",
+    "Address": "238 Madison Ave, New York, NY 10016, USA",
+    "Latitude": 40.7499446,
+    "Longitude": -73.9817461
+  }
+]
