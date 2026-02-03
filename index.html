@@ -195,6 +195,10 @@
                 const isMobile = window.innerWidth <= 768;
                 const initialZoom = isMobile ? 11.5 : 12; // Match Folium map zoom on mobile
                 
+                console.log('Window width:', window.innerWidth);
+                console.log('Is mobile?', isMobile);
+                console.log('Initial zoom:', initialZoom);
+                
                 const mapInstance = L.map(mapContainerRef.current, {
                     center: [40.7429, -73.9803],
                     zoom: initialZoom,
@@ -277,11 +281,14 @@
                 console.log('Created', newMarkers.length, 'markers');
                 setMarkers(newMarkers);
 
-                // Fit bounds to markers
+                // Fit bounds to markers (only on desktop)
                 if (filtered.length > 0) {
-                    const bounds = L.latLngBounds(filtered.map(r => [r.Latitude, r.Longitude]));
-                    console.log('Fitting map to bounds:', bounds);
-                    map.fitBounds(bounds, { padding: [50, 50] });
+                    const isMobile = window.innerWidth <= 768;
+                    if (!isMobile) {
+                        const bounds = L.latLngBounds(filtered.map(r => [r.Latitude, r.Longitude]));
+                        console.log('Fitting map to bounds:', bounds);
+                        map.fitBounds(bounds, { padding: [50, 50] });
+                    }
                 }
             }, [map, selectedCuisine, searchText, restaurantsData]);
 
