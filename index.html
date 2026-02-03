@@ -193,7 +193,7 @@
                 
                 // Detect if mobile device
                 const isMobile = window.innerWidth <= 768;
-                const initialZoom = isMobile ? 13.5 : 12; // Higher zoom on mobile for better NYC focus
+                const initialZoom = isMobile ? 11.5 : 12; // Match Folium map zoom on mobile
                 
                 const mapInstance = L.map(mapContainerRef.current, {
                     center: [40.7429, -73.9803],
