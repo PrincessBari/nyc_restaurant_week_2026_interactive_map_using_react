@@ -45,4 +45,4 @@ View the live site at: `https://PrincessBari.github.io/nyc_restaurant_week_2026_
 
 ## Data Source
 
-Restaurant data sourced from NYC Restaurant Week 2026 participating locations.
+Restaurant data sourced from NYC Restaurant Week 2026 participating locations: https://www.nyctourism.com/restaurant-week/
