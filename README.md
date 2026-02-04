@@ -7,7 +7,7 @@ An interactive map showing participating restaurants for NYC Restaurant Week 202
 - `index.html` - Main HTML file with embedded React components
 - `index.js` - React component logic (reference copy)
 - `styles.css` - Styling (reference copy)
-- `restaurants.json` - Restaurant data with 800+ locations and cuisine types
+- `restaurants.json` - Restaurant data with 653 locations and cuisine types
 
 ## Technologies Used
 - **React 18** (loaded via CDN)
@@ -16,11 +16,11 @@ An interactive map showing participating restaurants for NYC Restaurant Week 202
 - No build tools or npm required!
 
 ## Features
-- 🗺️ Interactive map of all participating restaurants
-- 🍕 Filter by cuisine type
-- 🔍 Search by restaurant name
-- 📍 Click markers for restaurant details
-- 📱 Mobile-responsive design
+- Interactive map of all participating restaurants
+- Filter by cuisine type
+- Search by restaurant name
+- Click markers for restaurant details
+- Mobile-responsive design
 
 ## How to Run Locally
 
