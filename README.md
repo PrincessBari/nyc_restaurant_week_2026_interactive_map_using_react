@@ -2,24 +2,22 @@
 
 An interactive map showing participating restaurants for NYC Restaurant Week 2026 (Jan 20 - Feb 12), built with React and Leaflet.
 
-## Project Structure
-
-- `index.html` - Main HTML file with embedded React components
-- `index.js` - React component logic (reference copy)
-- `styles.css` - Styling (reference copy)
-- `restaurants.json` - Restaurant data with 653 locations and cuisine types
+## Process
+Run the file **nyc_restaurant_pipeline.py**, but make sure to add your Google API key online 29. It'll produce your **restaurant_map.html**
+file at the end.
 
 ## Technologies Used
 - **React 18** (loaded via CDN)
 - **Leaflet.js** for interactive mapping
 - **Babel Standalone** for JSX transformation
+- **Google Places, Geocoding APIs**
 - No build tools or npm required!
 
 ## Features
 - Interactive map of all participating restaurants
 - Filter by cuisine type
 - Search by restaurant name
-- Click markers for restaurant details
+- Hover over markers for restaurant details
 - Mobile-responsive design
 
 ## How to Run Locally
