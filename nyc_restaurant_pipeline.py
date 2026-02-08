@@ -26,7 +26,7 @@ import json
 # CONFIGURATION
 # ============================================================================
 
-API_KEY = "<api key>"  # Replace with your actual API key
+API_KEY = "YOUR_GOOGLE_API_KEY_HERE"  # Replace with your actual API key
 
 # ============================================================================
 # STEP 1: WEB SCRAPING
@@ -163,6 +163,31 @@ def scrape_restaurant_week():
     
     print(f"\n✓ Saved {len(all_restaurants)} restaurants to: {output_file}")
     return output_file
+
+
+# ============================================================================
+# STEP 1.5: MANUAL REVIEW CHECKPOINT
+# ============================================================================
+
+def manual_review_checkpoint(csv_file):
+    """Pause for manual data review and correction."""
+    
+    print("\n" + "=" * 80)
+    print("MANUAL REVIEW CHECKPOINT")
+    print("=" * 80)
+    print(f"\nScraping complete! The data has been saved to '{csv_file}'")
+    print("\nBefore continuing with API calls, please review the data for any issues.")
+    print("\nSteps:")
+    print(f"  1. Open '{csv_file}' in Excel or a text editor")
+    print("  2. Review and fix any issues you find")
+    print("  3. Save the file")
+    print("  4. Return here and press Enter to continue")
+    
+    input("\nPress Enter when ready to continue the pipeline...")
+    
+    print("✓ Continuing pipeline...")
+    
+    return csv_file
 
 
 # ============================================================================
@@ -805,17 +830,18 @@ def run_pipeline(api_key=None):
     print("=" * 80)
     print("\nThis pipeline will:")
     print("1. Scrape restaurant data from NYC Tourism website")
-    print("2. Append ', New York, NY' to neighborhoods")
-    print("3. Fetch addresses via Google Places API")
-    print("4. Fetch coordinates via Google Geocoding API")
-    print("5. Convert final data to JSON for the interactive map")
-    print("6. Generate interactive HTML map with React")
+    print("2. Pause for manual data review and corrections")
+    print("3. Append ', New York, NY' to neighborhoods")
+    print("4. Fetch addresses via Google Places API")
+    print("5. Fetch coordinates via Google Geocoding API")
+    print("6. Convert final data to JSON for the interactive map")
+    print("7. Generate interactive HTML map with React")
     print("\n" + "=" * 80)
     
     # Check if API key is provided
     if not api_key or api_key == "YOUR_GOOGLE_API_KEY_HERE":
         print("\n⚠ WARNING: No Google API key provided!")
-        print("Steps 3 and 4 (address and coordinate fetching) will be skipped.")
+        print("Steps 4 and 5 (address and coordinate fetching) will be skipped.")
         print("To enable these steps, set API_KEY variable or pass it to run_pipeline()")
         use_api = False
     else:
@@ -824,6 +850,9 @@ def run_pipeline(api_key=None):
     try:
         # Step 1: Scrape data
         csv_file = scrape_restaurant_week()
+        
+        # Step 1.5: Manual review checkpoint
+        csv_file = manual_review_checkpoint(csv_file)
         
         # Step 2: Append city to neighborhoods
         csv_file = append_city_to_neighborhoods(csv_file)
