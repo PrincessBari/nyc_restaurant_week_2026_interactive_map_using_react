@@ -9,11 +9,13 @@ My pipeline **nyc_restaurant_pipeline.py**:
 2) The pipeline pauses at this point so that you can manually review the csv file. (This is because I noticed that 3 restaurants
    had neighborhood info for Cuisine because on the website, that’s what data had been inserted into that html section. So I did
    have to manually enter the info for those 3 restaurants)
-3) When you're ready to continue, you hit Enter
-4) It makes a Google Places API call to add the actual addresses of the restaurants
-5) It makes a Google Geocoding API call to convert the addresses into latitude and longitude and add those new columns
-6) Then, it converts the csv file to json
-7) Then, it creates the interactive map with React and Leaflet.
+3) After updating anything you need to, when you're ready to continue, you hit Enter
+4) Then, it appends each entry in the “Neighborhood” column with “, New York, NY”, so that it’d say “Brooklyn Heights, New York, NY”,
+   “Soho, New York, NY”, etc
+5) Then, it makes a Google Places API call to add the actual addresses of the restaurants
+6) Then, it makes a Google Geocoding API call to convert the addresses into latitude and longitude and add those new columns
+7) Then, it converts the csv file to json
+8) Then, it creates the interactive map with React and Leaflet
 
 ## Process
 Run the file **nyc_restaurant_pipeline.py**, but make sure to add your Google API key online 29. It'll stop after step 1 so you can manually
