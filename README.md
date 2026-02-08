@@ -8,7 +8,7 @@ My pipeline **nyc_restaurant_pipeline.py**:
    into a csv file
 2) The pipeline pauses at this point so that you can manually review the csv file. (This is because I noticed that 3 restaurants
    had neighborhood info for Cuisine because on the website, that’s what data had been inserted into that html section. So I did
-   have to manually enter the info for those 3 restaurants
+   have to manually enter the info for those 3 restaurants)
 3) When you're ready to continue, you hit Enter
 4) It makes a Google Places API call to add the actual addresses of the restaurants
 5) It makes a Google Geocoding API call to convert the addresses into latitude and longitude and add those new columns
